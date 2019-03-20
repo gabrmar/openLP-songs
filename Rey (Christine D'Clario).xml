@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-30T05:47:50">
+  <properties>
+    <titles>
+      <title>Rey</title>
+    </titles>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>En tu presencia danzamos libres<br/>Cúbrenos en tu luz de amor<br/>Llévanos mucho más profundo<br/>Pues somos hijos del gran yo soy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Dios siempre con nosotros<br/>Susurrando restauración<br/>Haz de nuestro ser tu morada<br/>Tuyos somos</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu iglesia clama hoy, abre los cielos<br/>Con poder, enaltecido<br/>Eres Dios, rompe tinieblas<br/>Brilla en gloria<br/>Oh, oh, oh</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Eres rey, por siempre rey<br/>Sobre la creación<br/>Tú eres rey, tú eres rey, tú eres rey</lines>
+    </verse>
+  </lyrics>
+</song>

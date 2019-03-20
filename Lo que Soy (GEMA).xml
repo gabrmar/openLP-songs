@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-08T19:28:55">
+  <properties>
+    <titles>
+      <title>Lo que Soy</title>
+    </titles>
+    <authors>
+      <author>GEMA</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por el Espíritu de adopción<br/>que has derramado en mi corazón<br/>puedo entender mi Padre Dios<br/>que yo tu hijo soy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Crucé la puerta de salvación<br/>Llegué a tu reino por convicción<br/>Me diste vida para tener<br/>la imagen de Jesús</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Bendecido estoy contigo<br/>me llamaste, ya me habías conocido.<br/>Con tu sangre me compraste<br/>con tu gracia me justificaste.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Y ahora soy la manifestación de aquel que reina<br/>quien puede hacer callar a las tormentas<br/>un heredero que junto a ti gobierna</lines>
+    </verse>
+    <verse name="c2">
+      <lines>En Cristo soy una santa nación que representa<br/>al cuerpo del Señor aquí en la tierra<br/>un heredero que es fiel al Padre Dios y en vida reina</lines>
+    </verse>
+  </lyrics>
+</song>

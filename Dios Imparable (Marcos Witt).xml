@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-11-10T21:04:39">
+  <properties>
+    <titles>
+      <title>Dios Imparable</title>
+    </titles>
+    <authors>
+      <author type="words">Marcos Witt</author>
+      <author type="music">Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eres alabado, eres exaltado<br/>Tu nombre levantamos, aleluya, aleluya<br/>Eres adorado te glorificamos<br/>Tu nombre levantamos, aleluya, aleluya</lines>
+    </verse>
+    <verse name="p1">
+      <lines>A una sola voz, nos unimos hoy<br/>Te cantamos Dios en adoración</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dios imparable, Dios de imposibles<br/>Inigualable, eres invencible<br/><br/>No tengo temor en mi corazón, tienes el control<br/><br/>No me falta nada si te tengo a ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eres alabado, eres exaltado<br/>Tu nombre levantamos, aleluya, aleluya</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Y yo sé quién va conmigo va por mi<br/>Y quien a mis enemigos hace huir</lines>
+    </verse>
+  </lyrics>
+</song>

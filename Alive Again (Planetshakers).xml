@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-20T15:49:45">
+  <properties>
+    <titles>
+      <title>Alive Again</title>
+    </titles>
+    <authors>
+      <author>Planetshakers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuando pienso en tu grandeza<br/>vivo y fuerte soy<br/>Hoy quiero agradecerte<br/>Por tu infinito amor</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Me sostienes, eres fiel<br/>Hoy y siempre cantaré</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesús, yo tengo nueva vida en ti<br/>Ohh, es el momento<br/>Ohh, avanzo a lo eterno<br/>Ohh, vivo en Cristo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hay fiesta en nuestra vidas<br/>Es tiempo de cantar<br/>que nada nos detenga<br/>Hay gozo al declarar</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Eres rey</lines>
+    </verse>
+  </lyrics>
+</song>

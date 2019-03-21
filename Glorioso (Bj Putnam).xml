@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-11-09T23:09:06">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
   <properties>
     <titles>
       <title>Glorioso</title>
@@ -17,13 +17,16 @@
       <lines>Cristo te alabaré<br/>Tu nombre exaltaré<br/>¡Glorioso!<br/>Nadie como tú</lines>
     </verse>
     <verse name="v1">
-      <lines>Tú reinarás<br/>¡Por siempre y siempre!<br/>Tú vivirás<br/>Tu amor será<br/>¡Por siempre y siempre!<br/>No cambiarás</lines>
+      <lines>Tú reinarás<br/>¡Por siempre y siempre!<br/>Tú vivirás</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu amor será<br/>¡Por siempre y siempre!<br/>No cambiarás</lines>
     </verse>
     <verse name="p1">
-      <lines>¡Gritaré, gritaré, gritaré!<br/>Porque bueno es dios<br/>Cantaré, cantaré<br/>Bueno es el señor<br/>Declararé: Nadie como tú</lines>
+      <lines>¡Gritaré, gritaré, gritaré!<br/>Porque bueno es Dios<br/>Cantaré, cantaré<br/>Bueno es Él Señor<br/>Declararé: Nadie como tú</lines>
     </verse>
     <verse name="b1a">
-      <lines>Tu luz brillará, todos verán<br/>No hay nadie como tú<br/></lines>
+      <lines>Tu luz brillará, todos verán<br/>No hay nadie como tú</lines>
     </verse>
     <verse name="b1b">
       <lines>¡Nadie como tú!<br/>¡Nadie como tú!</lines>

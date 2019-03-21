@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-08T19:28:55">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
   <properties>
     <titles>
-      <title>Lo que Soy</title>
+      <title>lo que soy</title>
     </titles>
     <authors>
       <author>GEMA</author>
@@ -10,19 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Por el Espíritu de adopción<br/>que has derramado en mi corazón<br/>puedo entender mi Padre Dios<br/>que yo tu hijo soy</lines>
+      <lines>Por el espíritu de adopción que has derramado en mi corazón<br/>Puedo entender mi padre Dios que yo tu hijo soy</lines>
     </verse>
     <verse name="v2">
-      <lines>Crucé la puerta de salvación<br/>Llegué a tu reino por convicción<br/>Me diste vida para tener<br/>la imagen de Jesús</lines>
+      <lines>Crucé la puerta de salvación, llegué a tu reino por convicción<br/>Me diste vida para tener la imagen de Jesús</lines>
     </verse>
-    <verse name="p1">
-      <lines>Bendecido estoy contigo<br/>me llamaste, ya me habías conocido.<br/>Con tu sangre me compraste<br/>con tu gracia me justificaste.</lines>
+    <verse name="v3">
+      <lines>Y ahora soy la manifestación de aquel que reina<br/>Quien puede hacer callar a las tormentas</lines>
     </verse>
-    <verse name="c1">
-      <lines>Y ahora soy la manifestación de aquel que reina<br/>quien puede hacer callar a las tormentas<br/>un heredero que junto a ti gobierna</lines>
+    <verse name="v4">
+      <lines>Un heredero que junto a ti gobierna<br/>En Cristo soy una santa nación que representa</lines>
     </verse>
-    <verse name="c2">
-      <lines>En Cristo soy una santa nación que representa<br/>al cuerpo del Señor aquí en la tierra<br/>un heredero que es fiel al Padre Dios y en vida reina</lines>
+    <verse name="v5">
+      <lines>Al cuerpo del Señor aquí en la tierra<br/>Un heredero que es fiel al padre Dios y en vida reina</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bendecido estoy contigo me llamaste, ya me habías conocido<br/>Con tu sangre me compraste, con tu gracia me justificaste</lines>
     </verse>
   </lyrics>
 </song>

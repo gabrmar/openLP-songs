@@ -1,14 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-08T12:41:10">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
   <properties>
     <titles>
       <title>Dios te Hizo tan Bien</title>
     </titles>
     <authors>
       <author type="words">Mauricio Alen</author>
-      <author type="music">Mauricio Alen</author>
       <author type="words">Ítala Rodríguez</author>
-      <author type="music">Ítala Rodríguez</author>
     </authors>
   </properties>
   <lyrics>

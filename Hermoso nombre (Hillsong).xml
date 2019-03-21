@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-30T05:52:56">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
   <properties>
     <titles>
-      <title>Hermoso nombre</title>
+      <title>Hermoso Nombre</title>
     </titles>
     <authors>
       <author>Hillsong</author>
@@ -10,34 +10,43 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ú fuiste el verbo en el principio<br/>Unigénito de Dios<br/>El misterio de tu gloria<br/>Revelado en tu amor</lines>
-    </verse>
-    <verse name="c1">
-      <lines>Cuán hermoso su nombre es<br/>Cuán hermoso su nombre es<br/>El nombre de Cristo mi Rey</lines>
-    </verse>
-    <verse name="c2">
-      <lines>Cuán hermoso su nombre es<br/>Nada se iguala a Él<br/>Cuán hermoso su nombre es<br/>No hay otro nombre</lines>
+      <lines>Tú fuiste el verbo en el principio<br/>Unigénito de Dios<br/>El misterio de tu gloria<br/>Revelado en tu amor</lines>
     </verse>
     <verse name="v2">
+      <lines>Cuán hermoso su nombre es<br/>Cuán hermoso su nombre es<br/>El nombre de Cristo mi Rey</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cuán hermoso su nombre es<br/>Nada se iguala a Él<br/>Cuán hermoso su nombre es<br/>No hay otro nombre</lines>
+    </verse>
+    <verse name="v4">
       <lines>Dejaste el cielo por salvarme<br/>Me viniste a rescatar<br/>Mi transgresión tú perdonaste<br/>Nada nos separará</lines>
     </verse>
-    <verse name="c3">
+    <verse name="v5">
       <lines>Majestuoso su nombre es<br/>Majestuoso su nombre es<br/>El nombre de Cristo mi Rey</lines>
     </verse>
-    <verse name="c4">
+    <verse name="v6">
       <lines>Majestuoso su nombre es<br/>Nada se iguala a Él<br/>Majestuoso su nombre es<br/>No hay otro nombre</lines>
     </verse>
-    <verse name="b1">
-      <lines>La muerte venciste<br/>El velo partiste<br/>La tumba vacía ahora está<br/>Los cielos declaran<br/>Tu gloria proclaman<br/>Resucitaste en majestad</lines>
+    <verse name="v7a">
+      <lines>La muerte venciste<br/>El velo partiste<br/>La tumba vacía ahora está</lines>
     </verse>
-    <verse name="b2">
-      <lines>Inigualable<br/>Incomparable<br/>Hoy y por siempre reinarás<br/>Tuyo es el reino<br/>Tuya es la gloria<br/>Tuyo el poder y autoridad</lines>
+    <verse name="v7b">
+      <lines>Los cielos declaran<br/>Tu gloria proclaman<br/>Resucitaste en majestad</lines>
     </verse>
-    <verse name="c5">
+    <verse name="v8">
+      <lines>Inigualable<br/>Incomparable<br/>Hoy y por siempre reinarás</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Suyo es el reino<br/>Suya es la gloria<br/>Suyo el poder y autoridad</lines>
+    </verse>
+    <verse name="v10">
       <lines>Poderoso su nombre es<br/>Poderoso su nombre es<br/>El nombre de Cristo mi Rey</lines>
     </verse>
-    <verse name="c6">
+    <verse name="v11">
       <lines>Poderoso su nombre es<br/>Incomparable es Él<br/>Poderoso su nombre es<br/>No hay otro nombre</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Poderoso su nombre es<br/>No hay otro nombre</lines>
     </verse>
   </lyrics>
 </song>

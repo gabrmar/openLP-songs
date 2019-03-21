@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
+  <properties>
+    <titles>
+      <title>Estás en mi</title>
+      <title>Estás en mí</title>
+    </titles>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Un reino inconmovible dentro de mi<br/>Se acercó, se acercó</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La cruz volvió a unir cielos y tierra<br/>Puedo disfrutar de ti</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por amor<br/>Fue todo por amor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Estas en mi y yo en ti completo estoy<br/>De gloria en gloria me transformas</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aviva en mi Espiritu Santo Y reina en mi, reina en mi<br/>Un reino inconmovible dentro de mi</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tu reino estableciéndose<br/>Tu reino invade este lugar</lines>
+    </verse>
+  </lyrics>
+</song>

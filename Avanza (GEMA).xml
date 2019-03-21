@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:03:02">
+  <properties>
+    <titles>
+      <title>Avanza</title>
+    </titles>
+    <authors>
+      <author>GEMA</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Desde los tiempos del bautista<br/>El reino avanza sin parar<br/>Somos un reino que conquista<br/>Llamados para dominar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El Rey ha dicho tengo prisa<br/>El dio el poder la autoridad<br/>No encontraré quien me resista<br/>Porque Jesús conmigo va</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Avanza, avanza<br/>El Rey nos dio victoria si<br/>Avanza, avanza<br/>Con cantos de alegría y danza</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Avanza, avanza<br/>Con decretos de alabanza<br/>Avanza, avanza<br/>Llevando salvación y gracia</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lo que ven tus ojos lo vas  Conquistando<br/>y Con Jesucristo lo vas dominando <br/>toma la tierra, ciudades y campos,<br/>derriba gigantes y sigue avanzando</lines>
+    </verse>
+  </lyrics>
+</song>

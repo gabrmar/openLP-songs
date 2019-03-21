@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-30T05:39:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
   <properties>
     <titles>
       <title>Todo es posible</title>
@@ -10,13 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Todo lo puedo contigo Señor<br/>Todo es posible confiado en ti<br/>Sintiendo el fuego de tu amor<br/>Y tu poder dentro de mí yo me levanto<br/>por la fe para vivir</lines>
+      <lines>Todo lo puedo contigo Señor<br/>Todo es posible confiado en ti</lines>
     </verse>
     <verse name="v2">
-      <lines>Planes eternos se van a cumplir<br/>Que solo tus siervos administrarán<br/>Y como soy un escogido que los voy<br/>a manifestar, alzo mis manos y mi voz<br/>para decir</lines>
+      <lines>Sintiendo el fuego de tu amor<br/>Y tu poder dentro de mí yo me agiganto<br/>por la fe para vivir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Planes eternos se van a cumplir<br/>Que solo tus siervos administrarán</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y como soy un escogido que los voy<br/>a manifestar, alzo mis manos y mi voz<br/>para decir</lines>
     </verse>
     <verse name="c1">
-      <lines>En ti todo lo puedo<br/>Aunque me enfrente al mundo entero<br/>voy a ir<br/>En ti todo es posible<br/>Aunque parezca incomprensible para mi</lines>
+      <lines>En ti todo lo puedo<br/>Aunque me enfrente al mundo entero<br/>voy a ir</lines>
+    </verse>
+    <verse name="c2">
+      <lines>En ti todo es posible<br/>Aunque parezca incomprensible para mi</lines>
     </verse>
     <verse name="b1">
       <lines>No es algo que sucederá<br/>Es algo que ha pasado ya<br/>Y estoy aquí para manifestar<br/>Y el plan eterno se cumplirá</lines>

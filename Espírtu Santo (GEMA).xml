@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
+  <properties>
+    <titles>
+      <title>Espírtu Santo</title>
+    </titles>
+    <authors>
+      <author>GEMA</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hay un deseo en mi<br/>Por hoy beber de tu fuente<br/>Y sumergirme en tu amor<br/>Que transforma mi mente <br/>Y me sostiene</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu gracia abunda señor <br/>Y se renueva por siempre <br/>Libre soy en aquel que me ha hecho suyo por siempre / Por Siempre</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Espíritu Santo, hoy te adoramos<br/>Espíritu Santo, hoy te exaltamos <br/>Y nos rendimos, a tu dominio </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tu gracia abunda Señor <br/>Y se renueva por siempre <br/>Libre soy en aquel que me ha hecho suya por siempre / por siempre </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Espíritu Santo, hoy te adoramos<br/>Espíritu Santo, hoy te exaltamos <br/>Y nos rendimos, a tu dominio //</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tu gloria fluye en mi ser, tu plenitud me habita <br/>Hablas y vuelvo a nacer, en tu amor me vivifica///</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Espíritu Santo, hoy te adoramos<br/>Espíritu Santo, hoy te exaltamos <br/> Y nos rendimos, a tu dominio //</lines>
+    </verse>
+  </lyrics>
+</song>

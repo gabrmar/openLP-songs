@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
+  <properties>
+    <titles>
+      <title>Nuestro tiempo</title>
+      <title>nuestro tiempo</title>
+    </titles>
+    <authors>
+      <author>Planetshakers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gritaremos de gozo con toda pasión<br/> es el canto que fluye de nuestro interior</lines>
+    </verse>
+    <verse name="v2">
+      <lines>y hoy volvemos a ti nuestro corazón<br/>y no podemos dejar de amarte Dios</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi mejor momento ya llegó, tengo vida en tu amor<br/>y nuestra esperanza vivirá al declarar tu gloria</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh/// al declarar tu gloria</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Por tu amor nuestra alma alegre está<br/>el camino has abierto tengo libertad</lines>
+    </verse>
+    <verse name="v6">
+      <lines>y hoy volvemos a ti nuestro corazón, y no podemos dejar de amarte Dios</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Es es el lugar, mi tiempo es, para proclamarte por siempre Rey/</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:15:08">
+  <properties>
+    <titles>
+      <title>Incontenible (Overflow)</title>
+      <title>Overflow</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi fe no puede medirse, <br/>ya no tengo ningún límite<br/>ahora veo claramente, <br/>tu plan en mi va a cumplirse</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Tú ves más allá de lo imaginado<br/>Tú vas más alto<br/>Grande eres, Dios, incontenible<br/>No tienes fin</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A ti el poder<br/>Y toda la gloria<br/>Te alabaré<br/>Por siempre y siempre, a ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No hay nada que nos detenga<br/>Pues tenemos al más grande<br/>En ti está la fortaleza<br/>y el amor incomparable</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Si le amas, canta fuerte<br/>Vamos todos a exaltarle</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Alzamos nuestras manos hacia ti<br/>Lo que anhelamos eres tú<br/>Estamos listos para proclamar <br/>Esa vida que solo tú nos das</lines>
+    </verse>
+  </lyrics>
+</song>

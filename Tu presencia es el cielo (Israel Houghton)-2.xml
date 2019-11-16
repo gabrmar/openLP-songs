@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:15:08">
+  <properties>
+    <titles>
+      <title>Tu presencia es el cielo</title>
+    </titles>
+    <authors>
+      <author>Israel Houghton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quién como tu en la tierra Oh Señor? <br/>Hermoso y inigualable es tu valor <br/>Y nada en este mundo saciará <br/>Jesús tu copa no se secará </lines>
+    </verse>
+    <verse name="p1">
+      <lines>Tu presencia es el cielo para mi<br/>Tu presencia es el cielo para mi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tesoro de mi alma y corazón<br/>Me das tu gracia aunque débil soy<br/>De mis errores eres mi redentor<br/>De mi futuro eres el guardador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh Cristo, Oh Cristo.<br/>Tu presencia es el cielo para mi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Y mientras tenga vida esperaré<br/>Cuando cara a cara te veré<br/>Y nada en este mundo saciara<br/>Jesús tu copa no se secará.</lines>
+    </verse>
+  </lyrics>
+</song>

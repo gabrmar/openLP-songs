@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:15:08">
+  <properties>
+    <titles>
+      <title>En el trono está</title>
+    </titles>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Caminaré por el fuego<br/>Y por la oscuridad<br/>Caminaré por las aguas<br/>Y no me vencerán</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Caminaré por las pruebas<br/>Y el valle del temor<br/>Caminaré en la tormenta<br/>Y no me vencerán</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dios es fiel, él puede<br/>Es mas grande que el gigante<br/>Que pueda enfrentar<br/>Por siempre firme estaré<br/>Pues sólo Dios<br/>En el trono está</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Caminaré en tu promesas<br/>Y en tu victoria andaré<br/>Caminaré con tus fuerzas<br/>Y no me vencerán</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Glorioso, victorioso<br/>Soberano Dios<br/>En el trono está<br/>Infinito, magnífico<br/>Sobre todo Dios<br/>En el trono está</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:15:08">
+  <properties>
+    <titles>
+      <title>Anuncios</title>
+    </titles>
+    <authors>
+      <author>Fuego MDA  </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ANUNCIOS DEL 11 AL 17 DE MARZO</lines>
+    </verse>
+    <verse name="v2">
+      <lines>LUNES<br/>CÉLULA MADRE. 7PM</lines>
+    </verse>
+    <verse name="v3">
+      <lines>MARTES. <br/>CRECIMIENTO CÉLULA 1.2. 7PM - LID NATALIA</lines>
+    </verse>
+    <verse name="v4">
+      <lines>MIÉRCOLES</lines>
+    </verse>
+    <verse name="v5">
+      <lines>JUEVES<br/>CRECIMIENTO CÉLULA 1.1. 7PM<br/>CONOCIENDO A MI SALVADOR. 7PM</lines>
+    </verse>
+    <verse name="v6">
+      <lines>VIERNES<br/>PLATAFORMA. 7PM</lines>
+    </verse>
+    <verse name="v7">
+      <lines>SÁBADO<br/>AUDICIONES GEMA. 5PM</lines>
+    </verse>
+    <verse name="v8">
+      <lines>DOMINGO<br/>ESCUELA DOMINICAL. 9AM<br/>CIERRE DE PRIMICIA</lines>
+    </verse>
+    <verse name="v9">
+      <lines>DURANTE LA SEMANA<br/>SEMANA DE SEGUNDA PERLA</lines>
+    </verse>
+    <verse name="v10">
+      <lines>DURANTE EL MES:<br/>1ER SERVICIO EVANGELÍSTICO. 20 DE MARZO (MIÉRCOLES). 7PM<br/>CADI - 27 AL 31 DE MARZO</lines>
+    </verse>
+  </lyrics>
+</song>

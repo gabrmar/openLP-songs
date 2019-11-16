@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:19:58">
+  <properties>
+    <titles>
+      <title>No Me Dejas Callar</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que lo sepa el mundo entero<br/>Soy feliz porque te tengo<br/>Tu amor llenó mi alma<br/>Hoy puedo cantar tu fama</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tengo esta pasión<br/>En mi corazón<br/>Cantaré gritaré</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No me dejas callar<br/>Me inspiras a adorar<br/>Mi voz no se apagará<br/>Oh oh oh oh oh oh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De tu voz yo soy el eco<br/>De tu gracia el reflejo<br/>Tu nombre es digno de honra<br/>Mi ser proclama tu gloria</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tengo esta pasión<br/>En mi corazón<br/>Cantaré gritaré</lines>
+    </verse>
+    <verse name="v6">
+      <lines>No me dejas callar<br/>Me inspiras a adorar<br/>Mi voz no se apagará<br/>Oh oh oh oh oh oh</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hoy levantamos tu nombre Oh Cristo<br/>Danzamos cantamos porque tú estás vivo</lines>
+    </verse>
+    <verse name="v8">
+      <lines>No me dejas callar<br/>Me inspiras a adorar<br/>Mi voz no se apagará<br/>Oh oh oh oh oh oh</lines>
+    </verse>
+  </lyrics>
+</song>

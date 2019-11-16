@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:27:48">
+  <properties>
+    <titles>
+      <title>Espírtu Santo</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v3 v6 v3</verseOrder>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hay un deseo en mi por hoy beber de tu fuente<br/>Y sumergirme en tu amor que transforma mi mente <br/>Y me sostiene</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu gracia abunda señor y se renueva por siempre <br/>Libre soy en aquel que me ha hecho suyo por siempre</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Espíritu Santo, hoy te adoramos<br/>Espíritu Santo, hoy te exaltamos <br/>Y nos rendimos, a tu dominio<br/>A tu voluntad</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tu gloria fluye en mi ser, tu plenitud me habita <br/>Hablas y vuelvo a nacer, en tu amor me vivifica</lines>
+    </verse>
+  </lyrics>
+</song>

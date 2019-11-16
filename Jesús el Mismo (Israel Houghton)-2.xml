@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:15:08">
+  <properties>
+    <titles>
+      <title>Jesús el Mismo</title>
+    </titles>
+    <authors>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo es el mismo ayer hoy y por siempre <br/>No hay otro nombre que <br/>Restaure salve y perdone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo es el mismo ayer hoy y por siempre<br/>no hay otro nombre más grande que Cristo </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Él es fiel grande es el <br/>Fuerte es nuestro Dios. <br/>Hermoso es nuestro rey <br/>Sobrenatural en nuestro Dios</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Firme Grande <br/>Digno es nuestro Dios <br/>Bueno Santo Proveedor <br/>Y no hay otro nombre más grande que Cristo</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Perfecto es Grandioso es <br/>Poderoso es Nuestro Dios</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Frime Grande<br/>Precioso es nuestro Dios <br/>No hay otro nombre más grande <br/>No hay otro nombre más grande que Cristo</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nada nos separa <br/>No hay arma en contra nuestra <br/>Que gane ante su nombre <br/>Cristo, Cristo </lines>
+    </verse>
+  </lyrics>
+</song>

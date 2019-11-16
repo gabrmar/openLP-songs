@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:34:53">
+  <properties>
+    <titles>
+      <title>Tu luz nos gobierna Regge</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v5 v2 v4 v5 v7 v6 v7</verseOrder>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Firme estoy<br/>No voy a dudar, mi vida confía <br/>Solo en tu amor, Jesús </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Avanzare siguiendo tu plan <br/>No temo al futuro, porque eres fiel, Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dios inconmovible eres invencible <br/>Tu poder nos sostendrá </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vivo estas no hay miedo venceré, lo creo <br/>Tu justicia es mi final </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gobierna Dios sobre todo <br/>Tu reino esta en nosotros <br/>Camino en libertad, en tu voluntad buena y perfecta<br/>Tu luz nos gobierna</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Creemos en tu victoria, justicia y paz no hay derrota<br/>Amanecerá, tu gloria brillara tu luz nos gobierna<br/>Tu luz nos gobierna</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sobre tinieblas tu luz gobierna <br/>Tiembla la tierra con nuestra alabanza</lines>
+    </verse>
+  </lyrics>
+</song>

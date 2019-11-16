@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:21:10">
+  <properties>
+    <titles>
+      <title>Tu Gloria en Mi</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>En mis fuerzas fallaría<br/>Sé que yo me rendiría <br/>Más tú amor me ha proveído de poder<br/>Tu Espíritu me guía<br/>Tu presencia es mi vida <br/>Tu palabra hace eco en mi interior </lines>
+    </verse>
+    <verse name="p1">
+      <lines>Fuerte es mi fe, aunque fuertes sean los vientos<br/>Vive mi esperanza en ti </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Veo tu gloria en mi <br/>Veo tu gloria en mi <br/>Me guías a donde nunca imaginé ir <br/>Veo tu gloria en mi </lines>
+    </verse>
+    <verse name="v2">
+      <lines>En mis fuerzas fallaría<br/>Sé que yo me rendiría <br/>Más tú amor me ha proveído de poder<br/>Tu Espíritu me guía<br/>Tu presencia es mi vida <br/>Tu palabra hace eco en mi interior </lines>
+    </verse>
+    <verse name="p2">
+      <lines>Fuerte es mi fe, aunque fuertes sean los vientos<br/>Vive mi esperanza en ti </lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Veo tu gloria en mi <br/>Veo tu gloria en mi <br/>Me guías a donde nunca imaginé ir </lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Veo tu gloria en mi <br/>Veo tu gloria en mi <br/>Hoy Vivo el destino que trazaste para mi <br/>Veo tu gloria en mi </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hoy el temor es derrotado por tu amor <br/>No hay imposibles En ti soy un vencedor ///</lines>
+    </verse>
+    <verse name="c3a">
+      <lines>Veo tu gloria en mi <br/>Veo tu gloria en mi <br/>Me guías a donde nunca imaginé ir </lines>
+    </verse>
+    <verse name="c3b">
+      <lines>Veo tu gloria en mi <br/>Veo tu gloria en mi <br/>Hoy vivo el destino que trazaste para mi <br/>Veo tu gloria en mi</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:18:13">
+  <properties>
+    <titles>
+      <title>Identidad</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Paso a paso el reino me lleva hacia la verdad<br/>Paso a paso el Rey me revela su identidad</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La palabra trajo a mi vida su voluntad<br/>Su diseño traza la forma de edificar</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>He recibido su revelación<br/>Tengo linaje, soy hijo de Dios<br/>Estoy en Cristo para salvación<br/>Y soy de Cristo manifestación<br/>Gobierno y autoridad</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Me levantaré y proclamaré<br/>Y con su verdad me manifestaré<br/>En autoridad y con su poder<br/>Jesucristo reina y yo reino con el</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Proclamación revelación CRISTO<br/>Se forma aquí en mi corazón VIVO<br/>Avanzo en manifestación SIGO<br/>Desarrollando la visión VIVO</lines>
+    </verse>
+  </lyrics>
+</song>

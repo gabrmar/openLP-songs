@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:15:08">
+  <properties>
+    <titles>
+      <title>Inagotable</title>
+    </titles>
+    <authors>
+      <author type="words">Living</author>
+      <author type="music">Living</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al pensar lo que has hecho en mí<br/>Cuán profundo,Tú me amaste</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sin dudar me escogiste a mí<br/>Por mi nombre me llamaste</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Dame de beber<br/>De tu amor</lines>
+    </verse>
+    <verse name="c2">
+      <lines>La fuente de todo poder<br/>El agua que sacia mi sed<br/>Tu inagotable amor</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Tu amor<br/>Nunca podré imaginar<br/>El ancho y la profundidad<br/>Tu inagotable amor<br/>Tu amor</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Tu lugar es ahora en mi<br/>Al creerte me haces fuerte</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Como Él es soy ahora aquí<br/>Mis temores desvanecen</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Aquel que tiene el poder<br/>La gloria sea a Él<br/>La gloria sea a Él</lines>
+    </verse>
+  </lyrics>
+</song>

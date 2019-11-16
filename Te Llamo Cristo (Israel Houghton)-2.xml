@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:15:08">
+  <properties>
+    <titles>
+      <title>Te Llamo Cristo</title>
+    </titles>
+    <authors>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te llamamos <br/>Sanador, restaurador, maestro, salvador Amante, eres dador, tu nombre grande es</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Redentor, libertador, eres rey, conquistador <br/>Cristo, Cristo tu n<br/>ombre grande es</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu nombre es Cristo <br/>Resucitado rey <br/>Alto sublime <br/>Reinas con poder</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nadie es más grande que tú <br/>Nadie es más fuerte que tú <br/>No hay nombre más alto que tú, Cristo </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nadie puede darnos luz <br/>Y hacer lo que haces tú <br/>No hay nombre más alto que tú <br/>Más alto que tu nombre <br/>Cristo</lines>
+    </verse>
+  </lyrics>
+</song>

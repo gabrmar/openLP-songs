@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:15:08">
+  <properties>
+    <titles>
+      <title>Con Todo</title>
+    </titles>
+    <comments>
+      <comment>																																																																																																																																																																																	</comment>
+    </comments>
+    <authors>
+      <author type="words">Hillsong</author>
+      <author type="music">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Déjanos ver<br/>lo que planeaste en tu corazón<br/>la iglesia que deseas tener<br/>refleja tu luz</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Rompe Señor<br/>orgullo y muros en mi interior<br/>mis sueños y coronas te doy<br/>me rindo a tus pies</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>tu luz da<br/>esperanza en la oscuridad<br/>que todos puedan ver</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Cristo mi Dios<br/>grande y digno de alabar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>eterno Dios<br/>glorioso en todo eres Señor<br/>la majestad, la gracia y poder<br/>en la luz de tu ser</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>con todo Dios<br/>con todo Dios<br/>cantaré de tu gloria</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>con todo Dios<br/>con todo Dios<br/>mi alabanza daré</lines>
+    </verse>
+    <verse name="b1">
+      <lines>mi corazón<br/>te adora Dios<br/>por siempre te exaltaré</lines>
+    </verse>
+    <verse name="v3">
+      <lines>a ti mi Rey<br/>con todo Dios<br/>mi alabanza daré</lines>
+    </verse>
+  </lyrics>
+</song>

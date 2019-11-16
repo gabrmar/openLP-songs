@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-05-29T19:15:36">
+  <properties>
+    <titles>
+      <title>Tu Amor Me Inundó</title>
+    </titles>
+    <authors>
+      <author>Evan Craft</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ante ti hoy me encuentro<br/>Y postrado me presento<br/>Tu esplendor me conquistó<br/>Con tu paz me abrazas<br/>Me rodeas con tu gracia<br/>Tu amor me inundó</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Me acerco a ti<br/>Te abro mi corazón<br/>Mi vida tuya es<br/>Ya no hay temor<br/>Me rindo a ti<br/>Me humillo ante tu amor<br/>Oh tu amor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si me pierdo tú me encuentras<br/>Y levantas mi cabeza<br/>Puedo ver tu majestad<br/>Me refugio en tu presencia<br/>Me cautiva tu belleza<br/>Quiero estar donde tú estás.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Me acerco a ti<br/>Te abro mi corazón<br/>Mi vida tuya es<br/>Ya no hay temor<br/>Me rindo a ti<br/>Me humillo ante tu amor<br/>Oh tu amor.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Profundo amor<br/>Que lava mi interior<br/>Escucha mi clamor<br/>Te necesito Dios</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Cantaré<br/>Mi voz levantaré<br/>Jesús te buscaré<br/>Tu rostro quiero ver.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Me acerco a ti<br/>Te abro mi corazón<br/>Mi vida tuya es<br/>Ya no hay temor<br/>Me rindo a ti<br/>Me humillo ante tu amor<br/>Oh tu amor</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Profundo amor<br/>Que lava mi interior<br/>Escucha mi clamor<br/>Te necesito Dios</lines>
+    </verse>
+    <verse name="b4">
+      <lines>Cantaré<br/>Mi voz levantaré<br/>Jesús te buscaré<br/>Tu rostro quiero ver</lines>
+    </verse>
+  </lyrics>
+</song>

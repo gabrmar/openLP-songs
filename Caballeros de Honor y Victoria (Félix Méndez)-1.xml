@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:15:08">
+  <properties>
+    <titles>
+      <title>Caballeros de Honor y Victoria</title>
+    </titles>
+    <authors>
+      <author>Félix Méndez</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avívame Señor, y ayúdame a entender<br/>Lo que estás haciendo en mi interior</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Llévame a crecer por tu verdad en mí<br/>Conviérteme en un hombre de Dios</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu mano en mí Señor es mi bendición<br/>Tu presencia es vida y corrección</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cambia mi Dios lo que no es tuyo en mí<br/>Moldéame a tu imagen, transfórmame Señor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>En un caballero de honor y victoria<br/>Que vive por ti, por tu voluntad <br/>cubierto de gracia y de gloria</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Un hombre de reino, árbol de justicia <br/>un adorador un siervo de Dios  <br/>Que lleno de ti testifica</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:19:08">
+  <properties>
+    <titles>
+      <title>Me Levantaré</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Refugio del cansado<br/>consuelo al angustiado<br/>eres Dios por encima de todo</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Alzaré mi mirada a ti<br/>con gloria me sostendrás<br/>a mi favor te levantarás</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Y en la noche oscura clamaré a tí<br/>mi sol de justicia mi principio y fin<br/>ya no temeré, tú vives en mí</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Me levantaré en tu fuerza<br/>resplandeceré en la luz de mi Señor<br/>no me vencerán</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Mi debilidad en tí es fuerza<br/>y la tempestad en tí es vida y bendición<br/>no me vencerán</lines>
+    </verse>
+  </lyrics>
+</song>

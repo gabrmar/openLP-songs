@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:20:38">
+  <properties>
+    <titles>
+      <title>Soy El Cambio</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se escucha un clamor <br/>Por un tiempo nuevo <br/>Una transformación <br/>Arde mi corazón<br/>No lo puedo resistir </lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Me levanto, soy respuesta <br/>A la necesidad<br/>No hay silencio, ahora tiembla<br/>El mundo escuchará</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Con Cristo voy, por un cambio<br/>Soy el cambio. <br/>Tu luz brilla <br/>El mundo lo verá, resplandecerá</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soy manifestación <br/>De vida y justicia a mi generación <br/>Cristo la inspiración <br/>El camino, la verdad</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Voy preparado <br/>Tu amor me has dado<br/>Gritamos libertad <br/><br/>El mundo espera <br/>Una respuesta <br/>No hay tiempo de parar</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tú y yo iremos</lines>
+    </verse>
+  </lyrics>
+</song>

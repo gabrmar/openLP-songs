@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:15:08">
+  <properties>
+    <titles>
+      <title>Nada me faltará</title>
+    </titles>
+    <authors>
+      <author>Israel Houghton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me llena tu gracia <br/>Me llena tu amor <br/>Me das tus promesas </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reposa tu favor en mí <br/>Por siempre he sido bendecido <br/>En abundancia vivo yo <br/>Nada me faltará</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, Oh, Oh <br/>Yo vivo en tu abundancia Rey<br/>Oh, Oh, Oh anhelo tu poder yo ver</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, Oh, Oh <br/>Yo vivo en tu abundancia Rey<br/>Hoy tus milagros viviré <br/>Eres mi Dios<br/>Nada me faltará</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Por ti por ti yo he sido bendecido<br/>Por ti por ti yo vivo <br/>En tu abundancia Rey <br/>Yo vivo en tu abundancia Rey </lines>
+    </verse>
+  </lyrics>
+</song>

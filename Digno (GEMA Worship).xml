@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:17:28">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-19T14:21:31">
   <properties>
     <titles>
       <title>Digno</title>
@@ -10,9 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">Que fluya tu presencia, que fluya tu poder<br/>Que fluyan gracia y gloria desde el fondo de mi ser<br/>Que fluya como ríos la manifestación<br/>De todo don perfecto, Santo Espíritu de Dios</lines>
-      <lines break="optional">Y cantaré un canto nuevo, y adorare como en el cielo<br/>Al Rey mi amor primero y con los reyes de tu reino alabaré</lines>
-      <lines>Digno, cordero inmolado, recibe toda gloria y poder<br/>Toda alabanza sea al Rey<br/>Cristo, el Padre te ha exaltado, <br/>Tu nombre sobre todo nombre es, a ti mi Rey adoraré<br/></lines>
+      <lines>Que fluya tu presencia, que fluya tu poder<br/>Que fluyan gracia y gloria desde el fondo de mi ser<br/>Que fluya como ríos la manifestación<br/>De todo don perfecto, Santo Espíritu de Dios</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y cantaré un canto nuevo, y adoraré como en el cielo<br/>Al Rey mi amor primero y con los reyes de tu reino alabaré</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Digno, cordero inmolado, recibe toda gloria y poder<br/>Toda alabanza sea al Rey<br/>Cristo, el Padre te ha exaltado, <br/>Tu nombre sobre todo nombre es, a ti mi Rey adoraré</lines>
     </verse>
   </lyrics>
 </song>

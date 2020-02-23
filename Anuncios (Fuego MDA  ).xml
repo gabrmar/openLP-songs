@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-02-23T15:55:10">
   <properties>
     <titles>
       <title>Anuncios</title>
@@ -10,34 +10,34 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ANUNCIOS DEL 11 AL 17 DE MARZO</lines>
+      <lines>ANUNCIOS DEL 24 DE FEBRERO AL 1 DE MARZO</lines>
     </verse>
     <verse name="v2">
-      <lines>LUNES<br/>CÉLULA MADRE. 7PM</lines>
+      <lines>LUNES</lines>
     </verse>
     <verse name="v3">
-      <lines>MARTES. <br/>CRECIMIENTO CÉLULA 1.2. 7PM - LID NATALIA</lines>
+      <lines>MARTES. </lines>
     </verse>
     <verse name="v4">
-      <lines>MIÉRCOLES</lines>
+      <lines>MIÉRCOLES<br/>IMPARTICIÓN APOSTÓLICA (Consolidación y Crecimiento) - 7:00pm</lines>
     </verse>
     <verse name="v5">
-      <lines>JUEVES<br/>CRECIMIENTO CÉLULA 1.1. 7PM<br/>CONOCIENDO A MI SALVADOR. 7PM</lines>
+      <lines>JUEVES<br/>EMAV - 7:00pm</lines>
     </verse>
     <verse name="v6">
-      <lines>VIERNES<br/>PLATAFORMA. 7PM</lines>
+      <lines>VIERNES<br/>LIDERAZGO - 7:00pm</lines>
     </verse>
     <verse name="v7">
-      <lines>SÁBADO<br/>AUDICIONES GEMA. 5PM</lines>
+      <lines>SÁBADO<br/>ALMA -  2:00pm</lines>
     </verse>
     <verse name="v8">
-      <lines>DOMINGO<br/>ESCUELA DOMINICAL. 9AM<br/>CIERRE DE PRIMICIA</lines>
+      <lines>DOMINGO<br/>ESCUELA DOMINICAL - 9:00am</lines>
     </verse>
     <verse name="v9">
-      <lines>DURANTE LA SEMANA<br/>SEMANA DE SEGUNDA PERLA</lines>
+      <lines>DURANTE LA SEMANA<br/>SEMANA DE COTACTO SALIDA</lines>
     </verse>
     <verse name="v10">
-      <lines>DURANTE EL MES:<br/>1ER SERVICIO EVANGELÍSTICO. 20 DE MARZO (MIÉRCOLES). 7PM<br/>CADI - 27 AL 31 DE MARZO</lines>
+      <lines>DURANTE EL MES:<br/>TALLER JÓVENES ADULTOS - 7 de marzo 4:00pm<br/>CADI - 27 AL 31 DE MARZO<br/>ENCUENTRO DE RESTAURACIÓN - 17, 18 y 19 de abril</lines>
     </verse>
   </lyrics>
 </song>

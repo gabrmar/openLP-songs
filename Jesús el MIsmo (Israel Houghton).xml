@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-03-07T11:49:25">
   <properties>
     <titles>
       <title>Jesús el Mismo</title>
     </titles>
+    <verseOrder>v1 v2 v3 v4 v1 v2 v5 v6 v1 v2 b1 v1 v2</verseOrder>
     <authors>
       <author type="words">Israel Houghton</author>
       <author type="music">Israel Houghton</author>

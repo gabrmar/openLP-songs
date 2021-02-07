@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-02-07T22:04:11">
   <properties>
     <titles>
       <title>Te Llamo Cristo</title>
@@ -20,9 +20,12 @@
       <lines>Tu nombre es Cristo <br/>Resucitado rey <br/>Alto sublime <br/>Reinas con poder</lines>
     </verse>
     <verse name="v4">
-      <lines>Nadie es más grande que tú <br/>Nadie es más fuerte que tú <br/>No hay nombre más alto que tú, Cristo </lines>
+      <lines>Sólo en tu nombre Dios <br/>Tenemos hoy perdón<br/>Te llamo Cristo<br/>Te llamo Cristo</lines>
     </verse>
     <verse name="v5">
+      <lines>Nadie es más grande que tú <br/>Nadie es más fuerte que tú <br/>No hay nombre más alto que tú, Cristo </lines>
+    </verse>
+    <verse name="v6">
       <lines>Nadie puede darnos luz <br/>Y hacer lo que haces tú <br/>No hay nombre más alto que tú <br/>Más alto que tu nombre <br/>Cristo</lines>
     </verse>
   </lyrics>

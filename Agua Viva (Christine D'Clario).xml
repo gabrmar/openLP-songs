@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-07-22T01:07:54">
+  <properties>
+    <titles>
+      <title>Agua Viva</title>
+    </titles>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dame de beber agua viva yo anhelo<br/>Sacia mi ser<br/>tu palabra es  mi alimento</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ven inundados  queremos mas de ti oh Dios<br/>Tu gloria ven derrama hoy como el agua cubre el mar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Agua viva cubreme<br/>Llena cada parte de mi ser<br/>Hoy mi corazon te quiere ver<br/>Te amo, Te amo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hablame hoy, tu palabra me da vida<br/>Padre de amor acercarme a ti cada dia</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ven inundados queremos mas de ti oh Dios<br/>Tu gloria ven derrama hoy como el agua cubre el mar</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Agua viva cubreme<br/>Llena cada parte de mi ser<br/>Hoy mi corazon te quiere ver<br/>Te amo, Te amo<br/>Ven llena este lugar<br/>Con pasion venimos a clamar<br/>Desesperados por tu palpitar<br/>Te amamos, Te amamos</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tu gloria viva en mi<br/>Tu gloria viva en mi<br/>Tu gloria viva en mi<br/>Que el sediento beba hoy<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>Agua viva cubreme<br/>Llena cada parte de mi ser<br/>Hoy mi corazón te quiere ver<br/>Te amo, Te amo<br/>Ven llena este lugar<br/>Con pasión venimos a clamar<br/>Desesperados por tu palpitar<br/>Te amamos, Te amamos</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-08-22T16:10:26">
+  <properties>
+    <titles>
+      <title>Te Deseo</title>
+    </titles>
+    <authors>
+      <author>Majo y Dan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Si mis tesoros han perdido todo su valor<br/>Y en este mundo ya no encuentro más satisfacción<br/>Es porque he probado y he podido ver<br/>A Cristo Jesús</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si todo es nada comparado a lo que hay en Ti<br/>Lo que estimaba ya no es importante para mí<br/>Es porque he probado y he podido ver<br/>A Cristo Jesús</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Y te deseo<br/>Más que a la vida te deseo<br/>Más cada día te deseo<br/>Más todavía, Jesús</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Si todo es nada comparado en lo que hay en Ti<br/>Lo que estimaba ya no es importante para mí<br/>Es porque he probado y he podido ver<br/>A Cristo Jesús<br/>A Cristo Jesús</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Y te deseo<br/>Más que a la vida te deseo<br/>Más cada día te deseo<br/>Más todavía, Jesús</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Y te deseo	<br/>Más que a la vida te deseo<br/>Más cada día te deseo<br/>Más todavía, Jesús<br/>Tú, suficiente serás</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tú, suficiente serás<br/>Hoy y por la eternidad<br/>Tú, suficiente serás<br/>Tú, suficiente serás<br/>Tú, suficiente serás<br/>Hoy y por la eternidad<br/>Tú, suficiente serás</lines>
+    </verse>
+    <verse name="v8">
+      <lines>y te deseo<br/>Más que a la vida te deseo<br/>Más cada día te deseo<br/>Más todavía, Jesús</lines>
+    </verse>
+  </lyrics>
+</song>

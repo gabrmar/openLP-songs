@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-09T04:46:47">
+  <properties>
+    <titles>
+      <title>Todo en Todo</title>
+    </titles>
+    <authors>
+      <author>GEMA</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tus palabras son mi alimento<br/>Tu voluntad es lo que quiero <br/>Mi obediencia a tu voz es mi mejor adoración </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tús palabras son mi sustento <br/>Tu dirección es lo que quiero<br/>Mi obediencia a tu voz es mi mejor adoración </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu lo llenas todo en todo <br/>Cristo tú lo eres todo <br/>Al vivir en tu verdad <br/>Puedo vivir tu realidad<br/>Señor</lines>
+    </verse>
+  </lyrics>
+</song>

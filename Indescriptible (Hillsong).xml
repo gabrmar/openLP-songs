@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-09T05:21:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-28T22:37:44">
   <properties>
     <titles>
-      <title>Indescriptile</title>
+      <title>Indescriptible</title>
     </titles>
     <authors>
       <author>Hillsong</author>
@@ -13,7 +13,10 @@
       <lines>Es tu amor<br/>Tú me llamaste<br/>Y tu gracia me escogio</lines>
     </verse>
     <verse name="v2">
-      <lines>Te escuché<br/>Desde las aguas<br/>Tú me llamaste<br/>Calmaste el mar<br/>Y pude ver<br/>El horizonte<br/>Un nuevo día<br/>Conmigo estás</lines>
+      <lines>Te escuché<br/>Desde las aguas<br/>Tú me llamaste<br/>Calmaste el mar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Y pude ver<br/>El horizonte<br/>Un nuevo día<br/>Conmigo estás</lines>
     </verse>
     <verse name="p1">
       <lines>Y es que yo no sé cómo explicar<br/>Que no existe otro igual<br/>Y Cristo, tú cambiaste mi corazón<br/>Me amaste sin condición<br/>Mi Dios<br/>Mi Dios</lines>
@@ -21,8 +24,11 @@
     <verse name="c1">
       <lines>Indescriptible<br/>Es tu amor<br/>Tú me llamaste<br/>Y tu gracia me escogio<br/>Hoy puedo entender<br/>Y expresar<br/>Tu amor eterno<br/>Nunca me abandonará</lines>
     </verse>
-    <verse name="v3">
-      <lines>Me has hecho libre<br/>Me das aliento<br/>Ahora el cielo<br/>Vive en mí<br/>Es un sonido<br/>Lleno de gracia<br/>Mis manos alzo<br/>Te adoro a ti</lines>
+    <verse name="v4">
+      <lines>Me has hecho libre<br/>Me das aliento<br/>Ahora el cielo<br/>Vive en mí</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Es un sonido<br/>Lleno de gracia<br/>Mis manos alzo<br/>Te adoro a ti</lines>
     </verse>
     <verse name="p2">
       <lines>Y es que yo no sé cómo explicar<br/>Que no existe otro igual<br/>Y Cristo, tú cambiaste mi corazón<br/>Me amaste sin condición<br/>Mi Dios<br/>Mi Dios</lines>
@@ -33,8 +39,8 @@
     <verse name="b1">
       <lines>Indescriptible es<br/>Uh-uh-uh<br/>Indescriptible es<br/>Uh-uh-uh<br/>Indescriptible es<br/>Uh-uh-uh<br/>Indescriptible es<br/>Uh-uh-uh</lines>
     </verse>
-    <verse name="v4">
-      <lines>Tu amor<br/>Me salvó<br/>Solo gracia<br/>Solo Dios<br/>A Jesús<br/>Seguiré<br/>Donde digas<br/>Yo iré</lines>
+    <verse name="v6">
+      <lines>Tu amor<br/>Me salvó<br/>Sólo gracia<br/>Sólo Dios<br/>A Jesús<br/>Seguiré<br/>Donde digas<br/>Yo iré</lines>
     </verse>
   </lyrics>
 </song>

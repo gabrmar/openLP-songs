@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:19:44">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-01-01T20:43:15">
   <properties>
     <titles>
       <title>Mi Verdad</title>
@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Cristo es la vida que me sustenta<br/>En tu poder renuevo mi fuerza, y no paro<br/>Visionaré aunque otros nos crean<br/>Transformaré cenizas en fiesta, y confío </lines>
+      <lines>Cristo es la vida que me sustenta<br/>En tu poder renuevo mi fuerza, y no paro</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Visionaré aunque otros nos crean<br/>Transformaré cenizas en fiesta, y confío </lines>
     </verse>
     <verse name="p1">
       <lines>Viviré y haré real tu plan en mi vida <br/>Libre soy, en ti </lines>
@@ -18,8 +21,8 @@
     <verse name="c1">
       <lines>Cristo es mi verdad <br/>Mi vida mi destino estar en él<br/>Vivo en libertad su obra <br/>es completa en mi ser </lines>
     </verse>
-    <verse name="v2">
-      <lines>Con paso firme sigo a la meta<br/>Seré expresión de Cristo en la tierra, y no paro <br/>Tú luz disipa toda tiniebla <br/>No temeré avanzó con fuerza y confío</lines>
+    <verse name="v2b">
+      <lines>Con paso firme sigo a la meta<br/>Seré expresión de Cristo en la tierra, y no paro</lines>
     </verse>
     <verse name="p2">
       <lines> Viviré y haré real tu plan en mi vida <br/>Libre soy, en ti </lines>

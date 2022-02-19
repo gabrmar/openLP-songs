@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-01-01T06:58:10">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-02-19T02:39:19">
   <properties>
     <titles>
       <title>Agua Viva</title>
@@ -19,27 +19,30 @@
       <lines>Ven inundados  queremos mas de ti oh Dios<br/>Tu gloria ven derrama hoy como el agua cubre el mar</lines>
     </verse>
     <verse name="v4">
-      <lines>Agua viva tu me das<br/>Llena cada parte de mi ser<br/>Hoy mi corazón te quiere ver<br/>Te amo, Te amo</lines>
+      <lines>Agua viva tu me das<br/>Llena cada parte de mi ser</lines>
     </verse>
     <verse name="v5">
-      <lines>Hablame hoy, tu palabra me da vida<br/>Padre de amor acercarme a ti cada dia</lines>
+      <lines>Hoy mi corazón te quiere ver<br/>Te amo, Te amo</lines>
     </verse>
     <verse name="v6">
-      <lines>Ven inundados, queremos mas de ti oh Dios<br/>Tu gloria ven derrama hoy <br/>como el agua cubre el mar</lines>
+      <lines>Hablame hoy, tu palabra me da vida<br/>Padre de amor acercarme a ti cada dia</lines>
     </verse>
     <verse name="v7">
-      <lines>Agua viva tu me das<br/>Llena cada parte de mi ser<br/>Hoy mi corazon te quiere ver<br/>Te amo, Te amo</lines>
+      <lines>Ven inundados, queremos mas de ti oh Dios<br/>Tu gloria ven derrama hoy <br/>como el agua cubre el mar</lines>
     </verse>
     <verse name="v8">
-      <lines>Ven llena este lugar<br/>Con pasión venimos a clamar<br/>Desesperados por tu palpitar<br/>Te amamos, Te amamos</lines>
+      <lines>Agua viva tu me das<br/>Llena cada parte de mi ser<br/>Hoy mi corazon te quiere ver<br/>Te amo, Te amo</lines>
     </verse>
     <verse name="v9">
-      <lines>Tu gloria vive en mi<br/>Tu gloria vive en mi<br/>Tu gloria vive en mi<br/>Que el sediento beba hoy</lines>
+      <lines>Ven llena este lugar<br/>Con pasión venimos a clamar<br/>Desesperados por tu palpitar<br/>Te amamos, Te amamos</lines>
     </verse>
     <verse name="v10">
-      <lines>Agua viva tu me das<br/>Llena cada parte de mi ser<br/>Hoy mi corazón te quiere ver<br/>Te amo, Te amo</lines>
+      <lines>Tu gloria vive en mi<br/>Tu gloria vive en mi<br/>Tu gloria vive en mi<br/>Que el sediento beba hoy</lines>
     </verse>
     <verse name="v11">
+      <lines>Agua viva tu me das<br/>Llena cada parte de mi ser<br/>Hoy mi corazón te quiere ver<br/>Te amo, Te amo</lines>
+    </verse>
+    <verse name="v12">
       <lines>Ven llena este lugar<br/>Con pasión venimos a clamar<br/>Desesperados por tu palpitar<br/>Te amo, Te amo</lines>
     </verse>
   </lyrics>

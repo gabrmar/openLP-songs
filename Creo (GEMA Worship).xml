@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-21T00:30:17">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-03-18T01:13:32">
   <properties>
     <titles>
       <title>Creo</title>
     </titles>
-    <verseOrder>v1 v2 c1 v2 c1 b1 c1</verseOrder>
+    <verseOrder>v1 v2 c1 c2 v2 c1 c2 b1 c1</verseOrder>
     <authors>
       <author>GEMA Worship</author>
     </authors>
@@ -17,7 +17,10 @@
       <lines>Creo y creeré<br/>Me has hecho inamovible venceré<br/>La vida que me diste viviré <br/>Morir en ti es ganancia Cristo es mi rey</lines>
     </verse>
     <verse name="c1">
-      <lines>Eres rey <br/>Tu reino de establece en mi ser <br/>Por siempre y para siempre eres fiel <br/>Nada te detiene <br/>Cantaré, con fuerza mi voz levantaré <br/>Tú eres soberano oh rey <br/>Digno de gloria y poder </lines>
+      <lines>Eres rey <br/>Tu reino de establece en mi ser <br/>Por siempre y para siempre eres fiel <br/>Nada te detiene </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Cantaré, con fuerza mi voz levantaré <br/>Tú eres soberano oh rey <br/>Digno de gloria y poder </lines>
     </verse>
     <verse name="b1">
       <lines>Grande, firme incontenible, es tu poder <br/>Se renueva en ti mi fuerza, creeré</lines>

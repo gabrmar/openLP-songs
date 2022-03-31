@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-03-26T23:34:05">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-03-31T01:00:19">
   <properties>
     <titles>
       <title>Deseo Eterno</title>
     </titles>
-    <verseOrder>v1 v2 c1 v3 v4 c1 v5 v6 v5 v6</verseOrder>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5 v6 v5 v6 v7</verseOrder>
     <authors>
       <author>Toma tu Lugar</author>
     </authors>
@@ -30,6 +30,9 @@
     </verse>
     <verse name="v6">
       <lines>Si te tengo a ti lo tengo todo<br/>Mi amado, mi tesoro<br/>Fuera de ti nada deseo Señor</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Cristo Jesús eres mi plenitud</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T04:24:33">
+  <properties>
+    <titles>
+      <title>Donde está el Espíritu de Dios</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 b2 b3 b2 v3 c1</verseOrder>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Donde está el Espíritu de Dios soy libre<br/>Donde está el Espíritu de Dios hay paz<br/>Donde está el Espíritu de Dios soy sano<br/>Sé que el Espíritu de Dios viviendo en mí está</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Espíritu Santo<br/>Trae lo pleno, guiame a lo que es tuyo<br/>Espíritu Santo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Donde está el Espíritu de Dios hay vida<br/>Donde está el Espíritu de Dios hay perdón<br/>Donde está el Espíritu de Dios hay guía<br/>Y donde está su Espíritu hay salvación</lines>
+    </verse>
+    <verse name="b1">
+      <lines>La culpa no puede ya existir<br/>Poder, hay poder<br/>Hay poder en su presencia</lines>
+    </verse>
+    <verse name="b2">
+      <lines>La duda no tiene aquí lugar<br/>La muerte Él ha vencido ya<br/>Poder, hay poder<br/>Hay poder en su presencia</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Y todo temor tiene que huir<br/>La culpa no puede ya existir<br/>Poder, hay poder<br/>Hay poder en su presencia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Donde está el Espíritu de Dios está el cielo<br/>Donde está su Espíritu esperanza hay<br/>Donde está su Espíritu yo tengo futuro<br/>Pues donde está su Espíritu es mi hogar</lines>
+    </verse>
+  </lyrics>
+</song>

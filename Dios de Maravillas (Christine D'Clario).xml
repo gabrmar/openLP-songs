@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-28T01:44:51">
+  <properties>
+    <titles>
+      <title>Dios de Maravillas</title>
+    </titles>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Muéstrame<br/>Tu voluntad enséñame<br/>Acércame y no me alejaré</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No temeré<br/>En la prueba cantaré<br/>Aún en la oscuridad<br/>Te alabaré</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aquí estoy<br/>Tómame tal como soy<br/>Digno de Amor<br/>Te daré mi adoración</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dios de Maravillas<br/>Dios de Poder y Autoridad<br/>Creo en Ti<br/>Creo en Tu Fidelidad</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tu amor no me falla<br/>Tu amor nunca cambia<br/>Eres fiel y fiel siempre serás</lines>
+    </verse>
+  </lyrics>
+</song>

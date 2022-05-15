@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-16T15:17:43">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T16:52:59">
   <properties>
     <titles>
       <title>Dominador</title>
@@ -16,12 +16,15 @@
       <lines>Las señales son claras, una visión ya tengo<br/>y mi boca delcara palabras reveladas<br/>que estoy recibiendo de Dios</lines>
     </verse>
     <verse name="c1">
-      <lines>Yo seré un dominador en Crsito<br/>Subiré y mi andar será distinto</lines>
+      <lines>Yo seré un dominador en Cristo<br/>Subiré y mi andar será distinto</lines>
     </verse>
     <verse name="b1">
-      <lines>Declarando bendiciones de profeta a la naciones<br/>llevando al mundo su esplendor<br/>Siguiendo sus caminos sujeto a este destino<br/>que el padre Dios me preparó</lines>
+      <lines>Declarando bendiciones de profeta a la naciones<br/>llevando al mundo su esplendor</lines>
     </verse>
     <verse name="b2">
+      <lines>Siguiendo sus caminos sujeto a este destino<br/>que el padre Dios me preparó</lines>
+    </verse>
+    <verse name="b3">
       <lines>Conquistando, dominando en cualquier lugar que esté<br/>Todo el tiempo declarando, lo que diga lo veré</lines>
     </verse>
   </lyrics>

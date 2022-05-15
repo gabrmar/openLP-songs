@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-29T02:20:43">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T16:40:29">
   <properties>
     <titles>
       <title>Por Siempre te Alabaré/Venció</title>
@@ -27,10 +27,10 @@
     <verse name="v4">
       <lines>//Te levantamos, te damos nuestro A Amor<br/>Por todo lo que haces Dios la gloria te daré//</lines>
     </verse>
-    <verse name="v5a">
+    <verse name="v5">
       <lines>Venció, Cristo venció<br/>Venció a toda autoridad<br/>Venció, Cristo venció<br/>Venció  a toda potestad</lines>
     </verse>
-    <verse name="v5b">
+    <verse name="v6">
       <lines>Él es jesús hijo de Dios y en Él nadie se puede perder<br/>Él dijo que el es la luz, es el camino, la vida y la verdad</lines>
     </verse>
   </lyrics>

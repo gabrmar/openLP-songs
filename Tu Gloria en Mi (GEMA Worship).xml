@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-03-01T23:10:24">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T16:55:25">
   <properties>
     <titles>
       <title>Tu Gloria en Mi</title>
@@ -23,7 +23,7 @@
       <lines>Veo tu gloria en mi <br/>Veo tu gloria en mi <br/>Me guías a donde nunca imaginé ir <br/>Veo tu gloria en mi </lines>
     </verse>
     <verse name="c2">
-      <lines>Veo tu gloria en mi <br/>Veo tu gloria en mi <br/>Hoy Vivo el destino que trazaste para mi <br/>Veo tu gloria en mi </lines>
+      <lines>Veo tu gloria en mi <br/>Veo tu gloria en mi <br/>Hoy vivo el destino que trazaste para mi <br/>Veo tu gloria en mi </lines>
     </verse>
     <verse name="v4">
       <lines>Hoy el temor es derrotado por tu amor <br/>No hay imposibles En ti soy un vencedor ///</lines>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-03-26T23:48:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-21T00:50:44">
   <properties>
     <titles>
       <title>Indescriptible</title>
     </titles>
-    <verseOrder>c1 v1 v2 v3 c1 c2 v4 v5 v3 c1 c2 v6 v7</verseOrder>
+    <verseOrder>c1 v1 v2 v3 c1 c2 v4 v5 v3 c1 c2 v6 v7 v8</verseOrder>
     <authors>
       <author>Hillsong</author>
     </authors>
@@ -20,7 +20,7 @@
       <lines>Y pude ver<br/>El horizonte<br/>Un nuevo día<br/>Conmigo estás</lines>
     </verse>
     <verse name="v3">
-      <lines>Y es que yo no sé cómo explicar<br/>Que no existe otro igual<br/>Y Cristo, tú cambiaste mi corazón<br/>Me amaste sin condición<br/>Mi Dios<br/>Mi Dios</lines>
+      <lines>Y es que yo no sé cómo explicar<br/>Que no existe otro igual<br/>Y Cristo tú cambiaste mi corazón<br/>Me amaste sin condición<br/>Mi Dios//</lines>
     </verse>
     <verse name="c1b">
       <lines>Indescriptible<br/>Es tu amor<br/>Tú me llamaste<br/>Y tu gracia me escogio</lines>
@@ -35,10 +35,13 @@
       <lines>Es un sonido<br/>Lleno de gracia<br/>Mis manos alzo<br/>Te adoro a ti</lines>
     </verse>
     <verse name="v6">
-      <lines>Indescriptible es<br/>Uh-uh-uh<br/>Indescriptible es<br/>Uh-uh-uh<br/>Indescriptible es<br/>Uh-uh-uh<br/>Indescriptible es<br/>Uh-uh-uh</lines>
+      <lines>Indescriptible es<br/>Uh-uh-uh//</lines>
     </verse>
     <verse name="v7">
-      <lines>Tu amor<br/>Me salvó<br/>Sólo gracia<br/>Sólo Dios<br/>A Jesús<br/>Seguiré<br/>Donde digas<br/>Yo iré</lines>
+      <lines>Tu amor<br/>Me salvó<br/>Sólo gracia<br/>Sólo Dios</lines>
+    </verse>
+    <verse name="v8">
+      <lines>A Jesús<br/>Seguiré<br/>Donde digas<br/>Yo iré</lines>
     </verse>
   </lyrics>
 </song>

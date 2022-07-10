@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-07-10T10:35:58">
+  <properties>
+    <titles>
+      <title>Te Anhelo</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 c1 c2 v5 v6 v3 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú me sedujiste con tu amor<br/>Yo me permití seducir</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tú me abrazaste Señor<br/>Me sentí seguro en ti</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Más que a nadie te deseo a ti<br/>Has saciado toda mi necesidad</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yo me entrego entero a tu amor<br/>Jesucristo eres tan fácil de amar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te Anhelo, mi deseo<br/>Es amarte y darme todo a ti</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tú eres mi vida y por siempre<br/>Yo te amaré Señor Jesús</lines>
+    </verse>
+    <verse name="v5">
+      <lines>En un mundo donde<br/>Falta tanto amor<br/>Ellos necesitan de ti</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Señor ayúdame a mostrarles tu amor <br/>que vean tu amor en mi</lines>
+    </verse>
+  </lyrics>
+</song>

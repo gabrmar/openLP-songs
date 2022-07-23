@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-07-23T01:06:50">
+  <properties>
+    <titles>
+      <title>De Gloria en Gloria</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2 v1 v2 c1 c2 e1</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De gloria en gloria te veo<br/>Cuanto más te conozco<br/>Quiero saber más de Ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi Dios, cuan buen alfarero<br/>Quebrántame, transfórmame<br/>Moldéame a Tu imagen, Señor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quiero ser más como Tú<br/>Ver la vida como Tú<br/>Saturarme de tu Espíritu<br/>Y reflejar al mundo tu amor</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Quiero ser más como Tú<br/>Ver la vida como Tú<br/>Saturarme de tu Espíritu</lines>
+    </verse>
+    <verse name="e1">
+      <lines>//y reflejar al mundo tu amor//</lines>
+    </verse>
+  </lyrics>
+</song>

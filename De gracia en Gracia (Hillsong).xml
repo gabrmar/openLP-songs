@@ -1,34 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-07-14T01:29:07">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-07-17T14:39:34">
   <properties>
     <titles>
       <title>De gracia en Gracia</title>
     </titles>
+    <verseOrder>v1 v2 c1 c2 v3 v4 c1 c2 v3 v4 c1 c2 v5 c1 c2 v5 v6 c1 c2</verseOrder>
     <authors>
       <author type="words">Hillsong</author>
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1a">
+    <verse name="v1">
       <lines>Su amor cargó aquella cruz<br/>Preciosa sangre de Jesús<br/>Con mi vergüenza Él se vistió<br/>Su muerte es la prueba de su amor</lines>
     </verse>
-    <verse name="v1b">
-      <lines>Por mí soportaste el dolor<br/>Sufrir en la cruz no te importó<br/>Con toda mi alma cantaré<br/></lines>
+    <verse name="v2">
+      <lines>Por mí soportaste el dolor<br/>Sufrir en la cruz no te importó<br/>Con toda mi alma cantaré</lines>
     </verse>
-    <verse name="v1c">
-      <lines>Hermoso Dios<br/>Eterno Rey<br/>Mi Salvador<br/>Glorioso es<br/>Mi libertad<br/>Comprada fue<br/>Me rescató<br/>Su gracia hallé<br/></lines>
+    <verse name="c1">
+      <lines>Hermoso Dios<br/>Eterno Rey<br/>Mi Salvador<br/>Glorioso es</lines>
     </verse>
-    <verse name="v1d">
+    <verse name="c2">
+      <lines>Mi libertad<br/>Comprada fue<br/>Me rescató<br/>Su gracia hallé</lines>
+    </verse>
+    <verse name="v3">
       <lines>La tumba vacía ahora está<br/>Eterna esperanza tú me das<br/>Tu muerte partió el velo en dos<br/>Tu resurrección la historia cambió</lines>
     </verse>
-    <verse name="v1e">
+    <verse name="v4">
       <lines>Si todo lo diste por amor<br/>No hay más vergüenza no hay temor<br/>Con todas mis fuerzas cantaré</lines>
     </verse>
-    <verse name="v1f">
-      <lines><br/>Al mirar tu cruz yo soy libre<br/>Con poder la muerte venciste<br/>Por la eternidad yo te adoraré<br/>Y de gracia en gracia iré</lines>
+    <verse name="v5">
+      <lines>Al mirar tu cruz yo soy libre<br/>Con poder la muerte venciste<br/>Por la eternidad yo te adoraré<br/>Y de gracia en gracia iré</lines>
     </verse>
-    <verse name="v1g">
-      <lines><br/>Con mi alma cantaré<br/>Y de gracia en gracia iré<br/>Con mi alma cantaré</lines>
+    <verse name="v6">
+      <lines>Con mi alma cantaré<br/>Y de gracia en gracia iré<br/>Con mi alma cantaré</lines>
     </verse>
   </lyrics>
 </song>

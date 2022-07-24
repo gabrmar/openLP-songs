@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-07-24T20:39:04">
+  <properties>
+    <titles>
+      <title>Créele</title>
+    </titles>
+    <authors>
+      <author>Roberto Orellana</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo es el camino, la verdad y la vida y la felicidad<br/>Yo te digo amigo que a Jesucristo debes aceptar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si sigues a Cristo, El te guiará<br/>Por la senda justa y del amor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Créele, acéptale, síguele<br/>Y al fin podrás hallar la felicidad<br/>Créele, acéptale, síguele<br/>Y al fin podrás hallar la felicidad</lines>
+    </verse>
+  </lyrics>
+</song>

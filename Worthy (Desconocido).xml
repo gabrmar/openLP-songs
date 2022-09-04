@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-04T13:27:23">
+  <properties>
+    <titles>
+      <title>Worthy</title>
+      <title>Llevaste tu mi Cruz</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Llevaste tu mi cruz <br/>Soy libre en ti, mi vlctoria ganaste <br/>Cristo tu gran amor <br/>Le puso fin al dolor y la muerte </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Santo eres tú Cristo <br/>Digno del honor, gloria y poder </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Perfecto es tu amor, no hay temor <br/>Mi vergüenza quitaste <br/>De Tu Gracia y tu poder<br/>Yo cantaré <br/>y tu vida expresaré </lines>
+    </verse>
+    <verse name="v4">
+      <lines>en la tierra y en los cielos <br/>Tu gobiernas con poder<br/>De mi vida eres el rey <br/>Yo tu nombre exaltaré</lines>
+    </verse>
+  </lyrics>
+</song>

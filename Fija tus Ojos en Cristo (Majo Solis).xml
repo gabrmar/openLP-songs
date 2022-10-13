@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-10-13T00:18:48">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-10-13T02:06:45">
   <properties>
     <titles>
       <title>Fija tus Ojos en Cristo</title>
@@ -19,15 +19,18 @@
       <lines><br/>De muerte a vida eterna<br/>Te llama el Salvador fiel<br/>En ti no domine el pecado<br/>Hay siempre victoria en Él</lines>
     </verse>
     <verse name="v4">
-      <lines><br/>Fija tus ojos en Cristo<br/>Tan lleno de gracia y amor<br/>Y lo terrenal sin valor será<br/>A la luz del glorioso Jesús<br/>Del glorioso Jesús<br/>Del glorioso Jesús<br/>Del glorioso Jesús</lines>
+      <lines><br/>Fija tus ojos en Cristo<br/>Tan lleno de gracia y amor<br/>Y lo terrenal sin valor será<br/>A la luz del glorioso Jesús</lines>
     </verse>
     <verse name="v5">
-      <lines><br/>Jamás faltará su promesa<br/>Él dijo: Contigo yo estoy<br/>Al mundo perdido ve pronto<br/>Y anuncia la salvación hoy</lines>
+      <lines>Del glorioso Jesús<br/>Del glorioso Jesús<br/>Del glorioso Jesús</lines>
     </verse>
     <verse name="v6">
+      <lines><br/>Jamás faltará su promesa<br/>Él dijo: Contigo yo estoy<br/>Al mundo perdido ve pronto<br/>Y anuncia la salvación hoy</lines>
+    </verse>
+    <verse name="v7a">
       <lines><br/>Fija tus ojos en Cristo<br/>Tan lleno de gracia y amor<br/>Y lo terrenal sin valor será<br/>A la luz del glorioso Jesús<br/>Del glorioso Jesús</lines>
     </verse>
-    <verse name="v7">
+    <verse name="v7b">
       <lines><br/>Yo fijo mis ojos en Cristo<br/>Tan lleno de gracia y amor<br/>Ya lo terrenal no vale más<br/>A la luz del glorioso Jesú</lines>
     </verse>
   </lyrics>

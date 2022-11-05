@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-10-02T14:01:29">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-11-05T00:31:20">
   <properties>
     <titles>
       <title>Más allá</title>
@@ -30,7 +30,7 @@
       <lines>Más allá de lo natural<br/>Más allá de mi humanidad <br/>Hoy buscamos lo celestial <br/>Nos revelas tu voluntad</lines>
     </verse>
     <verse name="v7">
-      <lines>Yo quiero conocerte mucho más allá <br/>Yo quiero conocerte mucho más allá <br/>Yo quiero conocerte mucho más allá <br/>Yo quiero conocerte mucho más allá </lines>
+      <lines>//Yo quiero conocerte mucho más allá//</lines>
     </verse>
     <verse name="v8">
       <lines>Más allá de lo natural<br/>Más allá de mi humanidad<br/>Hoy buscamos lo celestial<br/>Nos revelas tu voluntad</lines>

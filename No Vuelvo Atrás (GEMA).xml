@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-30T03:40:48">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-11-10T00:56:20">
   <properties>
     <titles>
       <title>No Vuelvo Atrás</title>
     </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
     <authors>
       <author>GEMA</author>
     </authors>

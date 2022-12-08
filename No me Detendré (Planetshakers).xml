@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-08T11:20:15">
+  <properties>
+    <titles>
+      <title>No me Detendré</title>
+      <title>Move out of my Way</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Planetshakers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Todos digan cuan bueno ha sido Dios <br/>Muy bueno ha sido Él y yo le alabaré <br/>Que todos escuchen nuestra alabanza hoy <br/>Su nombre Santo es  y sobretodo está</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sin dudas hoy vengo <br/>Este es el momento <br/>No me detendré <br/>No existen fronteras <br/>Quito las Barreras <br/>Yo le alabaré </lines>
+    </verse>
+    <verse name="c1">
+      <lines>No me detendré <br/>Hoy su nombre exaltaré <br/>con mi vida anunciaré <br/>Tu grandeza y tu poder </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Todos digan cuan bueno ha sido Dios <br/>Muy bueno ha sido el y yo le alabaré <br/>Que todo escuchen nuestra alabanza hoy <br/>Su nombre santo y sobretodo está </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Con amor y fuerza <br/>Hoy celebraremos <br/>Hay un motivo <br/>Su nombre es Cristo <br/>Con amor y fuerza hoy celebraremos <br/>Gritaremos fuerte hoy</lines>
+    </verse>
+  </lyrics>
+</song>

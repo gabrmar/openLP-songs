@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-08T15:25:28">
+  <properties>
+    <titles>
+      <title>Ya Llegó el Poder</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Algo se agita dentro de mí<br/>Y en el silencio se oye un rugir</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Como un estruendo de aguas<br/>Cascadas de gracia sin fin<br/>Un viento recio se oye venir<br/>Dios manda un decreto y se va a cumplir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Poder ya viene del cielo <br/>Su Espíritu Santo está aquí</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Ya llegó el poder/<br/>Milagros señales sobrenaturales<br/>y prodigios del Señor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se abren los cielos, su gloria está aquí<br/>Se abren mil puertas delante de mi<br/>Siento la unción de profeta y mi boca decreta así</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dominan los hijos, se cumple  lo escrito<br/>lo que el Padre prometió</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pregunta quién lo hizo <br/>yo digo lo hizo Cristo <br/>por propósito y por mi</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-02-19T13:52:44">
+  <properties>
+    <titles>
+      <title>Rindo Todo</title>
+    </titles>
+    <authors>
+      <author>Abby Guzman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No hay tesoros en la tierra<br/>Que capturen mi atención, cuando miro tu grandeza, lo de mas pierde valor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>viviré para agradarte es una firme decisión, soy el fruto de tu gracia, prisionero de tu amor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Rindo todo//<br/>ser hallado en ti es mi tesoro, tu presencia en mi lo llena todo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>//Rendimos el corazón, ante tu trono ante tu voz|</lines>
+    </verse>
+  </lyrics>
+</song>

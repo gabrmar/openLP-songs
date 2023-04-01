@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-01T00:19:10">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-01T02:12:38">
   <properties>
     <titles>
       <title>Celebremos</title>
@@ -21,7 +21,7 @@
       <lines>Somos la buena tierra<br/>Del presente de esta generación</lines>
     </verse>
     <verse name="c1">
-      <lines>Celebremos<br/>Una gran lluvia se olle<br/>Prospera nuestra tierra<br/>La palabra de verdad</lines>
+      <lines>Celebremos<br/>Una gran lluvia se oye<br/>Prospera nuestra tierra<br/>La palabra de verdad</lines>
     </verse>
     <verse name="c2">
       <lines>Celebremos<br/>Hay un fruto indetenible<br/>Es Cristo la semilla<br/>El mundo lo verá</lines>

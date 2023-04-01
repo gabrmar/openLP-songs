@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-01T00:19:10">
+  <properties>
+    <titles>
+      <title>Celebremos</title>
+      <title>Celebremos</title>
+    </titles>
+    <verseOrder>v1 v2 o1 c1 c2 b1</verseOrder>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Un nuevo tiempo<br/>Nos une un sentir<br/>Somos un cuerpo<br/>Llamados a vivir<br/>Lo consumado<br/>Se hace visible aquí</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es el progreso de tu palabra<br/>Es tu verdad incrementada<br/>En nuestros corazones<br/>Para expresar a Cristo</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Somos la buena tierra<br/>Del presente de esta generación</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Celebremos<br/>Una gran lluvia se olle<br/>Prospera nuestra tierra<br/>La palabra de verdad</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Celebremos<br/>Hay un fruto indetenible<br/>Es Cristo la semilla<br/>El mundo lo verá</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Este es el tiempo<br/>Para tu voz seguir<br/>Hacia lo eterno<br/>Haz tu deseo en mí<br/>No es en mis fuerzas<br/>Es tu poder en mí</lines>
+    </verse>
+  </lyrics>
+</song>

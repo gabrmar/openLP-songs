@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-16T14:07:52">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-16T15:01:51">
   <properties>
     <titles>
       <title>Agua Viva</title>
@@ -19,7 +19,7 @@
       <lines>Ven inundados  queremos mas de ti oh Dios<br/>Tu gloria nos habita hoy como el agua cubre el mar</lines>
     </verse>
     <verse name="v4">
-      <lines>Agua viva tu me das<br/>Llena cada parte de mi ser</lines>
+      <lines>Agua viva cúbreme<br/>Llena cada parte de mi ser</lines>
     </verse>
     <verse name="v5">
       <lines>Hoy mi corazón te quiere ver<br/>Te amo, Te amo</lines>
@@ -43,7 +43,7 @@
       <lines>Agua viva tu me das<br/>Llena cada parte de mi ser<br/>Hoy mi corazón te quiere ver<br/>Te amo, Te amo</lines>
     </verse>
     <verse name="v12">
-      <lines>Ven llena este lugar<br/>Con pasión venimos a clamar<br/>Desesperados por tu palpitar<br/>Te amo, Te amo</lines>
+      <lines>Ven llena este lugar<br/>Con pasión venimos a clamar<br/>Desesperados por tu palpitar<br/>Te amamos, Te amamos</lines>
     </verse>
   </lyrics>
 </song>

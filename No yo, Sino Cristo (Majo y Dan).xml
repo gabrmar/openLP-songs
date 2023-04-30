@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-30T14:38:50">
+  <properties>
+    <titles>
+      <title>No yo, Sino Cristo</title>
+    </titles>
+    <authors>
+      <author>Majo y Dan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Solía vivir la vida en temor<br/>Y me encontró<br/>Un camino mejor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Toda mi carga<br/>Y condenación<br/>Cambiada fue<br/>Por tu gracia y perdón<br/>Y no me hace falta nada ya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No yo, sino Cristo<br/>No yo, sino Cristo<br/>Lo que fui no soy más,<br/>Tú en mí vivo estás.<br/>No yo, solo Cristo.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Y crucificado junto a ti<br/>Ya no vivo yo,<br/>Tú vives en mí.<br/>Y no hay nada más<br/>Que pueda aportar,<br/>Tu gracia, Jesús,<br/>Me bastará.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>No yo, sino Cristo<br/>No yo, sino Cristo<br/>Lo que fui no soy más,<br/>Tú en mí vivo estás.<br/>No yo, solo Cristo.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Y consumado fue,<br/>Por la fe puedo ver.<br/>Y este corazón<br/>Todo tuyo es.<br/>Y hoy mi adoración<br/>Vengo a darte, Señor.<br/>Eres mi porción<br/>Para siempre</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tú eres nuestra porción, Cristo...<br/>Eres nuestra porción.<br/>Te damos toda alabanza.<br/>Aquel que nos habita<br/>Aquel que vive en nosotros<br/>Que manifieste su gloria</lines>
+    </verse>
+    <verse name="c2">
+      <lines>No yo, sino Cristo<br/>No yo, sino Cristo<br/>No yo, sino Cristo<br/>No yo, sino Cristo<br/>Lo que fui no soy más,<br/>Tú en mí vivo estás.<br/>No yo, solo Cristo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Y consumado fue,<br/>Por la fe puedo ver.<br/>Y este corazón<br/>Todo tuyo es.<br/>Y hoy mi adoración<br/>Vengo a darte, Señor.<br/>Eres mi porción<br/>Para siempre</lines>
+    </verse>
+  </lyrics>
+</song>

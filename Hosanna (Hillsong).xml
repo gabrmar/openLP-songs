@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-05-24T00:12:27">
+  <properties>
+    <titles>
+      <title>Hosanna</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 b1 b2</verseOrder>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veo al rey de gloria<br/>Viene con fuego y poder<br/>Todos verán<br/>Todos verán</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veo su amor y gracia<br/>Mi pecado perdonó<br/>Le alabaré<br/>Le alabaré</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hosanna<br/>Hosanna<br/>Hosanna en las alturas</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veo cómo se levanta<br/>Una gran generación<br/>Con compasión<br/>Con compasión</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Veo avivamiento<br/>Al buscarte y al orar<br/>Me postraré<br/>Me postraré</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sáname y límpiame<br/>Con mis ojos tus obras quiero ver<br/>Quiero amarte como tú me amas</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Muéstrame tu corazón<br/>Todo lo que soy por tu reino Dios<br/>Contigo quiero estar por la eternidad</lines>
+    </verse>
+  </lyrics>
+</song>

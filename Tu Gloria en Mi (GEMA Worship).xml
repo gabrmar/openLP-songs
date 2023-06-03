@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T16:55:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-06-03T15:00:41">
   <properties>
     <titles>
       <title>Tu Gloria en Mi</title>
     </titles>
-    <verseOrder>v1 v2 v3 c1 v1 v2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <verseOrder>v1 v2 v3 c1 c2 v1 v2 v3 c1 c2 v4 c1 c2</verseOrder>
     <authors>
       <author>GEMA Worship</author>
     </authors>

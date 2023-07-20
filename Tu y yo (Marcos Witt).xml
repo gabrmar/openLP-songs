@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-07-08T02:45:30">
+  <properties>
+    <titles>
+      <title>Tu y yo</title>
+    </titles>
+    <verseOrder>v1 v1 c1 c2 v1 v1 c1 c2 c1</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios está llamando a la guerra<br/>Nos está impulsando hacia afuera<br/><p style="page-break-after: always;"/><br/>Acudiremos al llamado del Señor<br/>Tomaremos las armas que Él nos preparó</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tú y yo<br/>Somos su pueblo<br/>Tú y yo<br/>Preparados<br/><p style="page-break-after: always;"/><br/>Para mostrar las grandezas del Señor<br/>Y administrar la herencia que Él nos entregó</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tú y yo<br/>Somos su pueblo<br/>Tú y yo<br/>Preparados<br/><p style="page-break-after: always;"/><br/>Para mostrar las grandezas del Señor<br/>Y manifestar las obras que Él nos preparó</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Tú y yo</lines>
+    </verse>
+  </lyrics>
+</song>

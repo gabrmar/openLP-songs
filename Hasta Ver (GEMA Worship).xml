@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-07-22T00:10:12">
+  <properties>
+    <titles>
+      <title>Hasta Ver</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Puesta mi mirada en ti <br/>Autor, consumador de la fe<br/>Mi fe <br/>Tu esperanza es mi certeza, Puedo  Ver </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Firme, es tu trono inconmovible<br/>Cristo eres quien reina, seguro<br/>En ti siempre estaré </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hasta ver <br/>Firmes hasta ver <br/>La plenitud de Cristo <br/>Tú reino establecido aquí </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Todo lo puedo, Cristo vive en mi <br/>Ahora lo Eterno, se expresa en mi <br/>Tu palabra me sustenta, avanzare </lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Cristo rendimos toda honra <br/>Vivimos para expresar su gloria////</lines>
+    </verse>
+  </lyrics>
+</song>

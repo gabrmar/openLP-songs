@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-21T22:01:49">
+  <properties>
+    <titles>
+      <title>Amor en Unidad Total</title>
+    </titles>
+    <verseOrder>v1 v2 v3 c1 v4 v5 v6 c1 c2 c3</verseOrder>
+    <authors>
+      <author>Félix Méndez</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ya paso la ultima vez en que lloré por ti,<br/>Con la amargura, ira, dolor, <br/>Por desengaño y desilusión. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que bien me siento hoy,<br/>En todo unida a ti,<br/>En el romance, la intimidad,<br/>El tiempo juntos que hoy es realidad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amado mio,<br/>La lluvia terminó y estoy contigo,<br/>En el altar de Dios comprometidos,<br/>Amarnos hasta el fin, amor.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Amor, amor en unidad total,<br/>Mi amado es mío y yo suya,<br/>Nada nos puede separar. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesús sanó en tu corazón, <br/>La herida que cause, <br/>Porque el cambiar mi vida te dió,<br/>Todas las cosas que un día te negué. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Por el me siento hoy, <br/>Mas hombre que el mejor,<br/>Bebiendo solo de tu manantial,<br/>Amando a la reina de mi hogar.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Amada mia, <br/>Te ofrezco con amor, mi nueva vida, <br/>Y declaro ante Dios que mientras viva, <br/>Solo tuyo, tuyo soy amor.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Amor, amor en unidad total,<br/>Mi amada es mía y yo suyo,<br/>Nada nos puede separar. </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Amor, amor, amor en unidad total,<br/>Este amor que siento yo por ti, <br/>Nuestro tiempo, es la alegría de vivir. </lines>
+    </verse>
+    <verse name="c3">
+      <lines>Amor, amor, amor en unidad total,<br/>Te ofrezco todo mi amor, una nueva vida<br/>Declaró antes Dios que solo tuyo soy.</lines>
+    </verse>
+  </lyrics>
+</song>

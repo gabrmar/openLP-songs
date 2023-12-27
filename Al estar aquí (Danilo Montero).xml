@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-27T23:19:25">
+  <properties>
+    <titles>
+      <title>Al estar aquí</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al estar en la presencia de tu divinidad<br/>Y al contemplar la hermosura de tu santidad<br/>Mi espíritu se alegra en tu majestad<br/>Te adoro a ti, te adoro a t</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuando veo la grandeza de tu dulce amor<br/>Y compruebo la pureza de tu corazón<br/>Mi espíritu se alegra en tu majestad<br/>Te adoro a ti, te adoro a ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Y al estar aquí, delante de ti te adorare<br/>Postrado ante ti, mi corazón te adora oh Dios<br/>Y siempre quiero estar<br/>Para adorar y contemplar tu santidad<br/>Te adoro a ti Señor, te adoro a ti</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Al estar en la presencia de tu divinidad<br/>Y al contemplar la hermosura de tu santidad<br/>Mi espíritu se alegra en tu majestad<br/>Te adoro a ti, te adoro a ti</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cuando veo la grandeza de tu dulce amor<br/>Y compruebo la pureza de tu corazón<br/>Y mi espíritu se alegra en tu majestad<br/>Te adoro a ti, te adoro a ti</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Y al estar aquí, delante de ti te adorare<br/>Postrado ante ti, mi corazón<br/>Te adora oh Dios<br/>Y siempre quiero estar<br/>Para adorar y contemplar tu santidad<br/>Te adoro a ti Señor, te adoro a ti</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Y al estar aquí, delante de ti te adorare<br/>Postrado ante ti, mi corazón<br/>Te adora oh Dios</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Para adorar y contemplar tu santidad<br/>Te adoro a ti Señor, te adoro a ti<br/>Te adoro a ti Señor, te adoro a ti<br/>Te adoro a ti Señor, te adoro a ti</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-11-05T00:31:20">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-01-28T15:10:08">
   <properties>
     <titles>
       <title>Más allá</title>
     </titles>
-    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
     <authors>
       <author type="words">GEMA Worship</author>
       <author type="music">GEMA Worship</author>
@@ -21,19 +21,22 @@
       <lines>Más allá de lo natural<br/>Más allá de mi humanidad<br/>Hoy buscamos lo celestial<br/>Nos revelas tu voluntad</lines>
     </verse>
     <verse name="v4">
-      <lines>Dios, tu diseño es mi seguridad nada me moverá<br/>Viviré para amarte y hacer tu voluntad [hacer tu voluntad]</lines>
+      <lines>Dios, tu diseño es mi seguridad nada me moverá<br/>Viviré para amarte y hacer tu voluntad <chord name="hacer tu voluntad"/></lines>
     </verse>
     <verse name="v5">
       <lines>Renuncio a mis deseos<br/>Para conocerte más<br/>Yo quiero conocerte más</lines>
     </verse>
     <verse name="v6">
-      <lines>Más allá de lo natural<br/>Más allá de mi humanidad <br/>Hoy buscamos lo celestial <br/>Nos revelas tu voluntad</lines>
+      <lines>Más allá de lo natural<br/>Más allá de mi humanidad<br/>Hoy buscamos lo celestial<br/>Nos revelas tu voluntad</lines>
     </verse>
     <verse name="v7">
       <lines>//Yo quiero conocerte mucho más allá//</lines>
     </verse>
-    <verse name="v8">
+    <verse name="v9">
       <lines>Más allá de lo natural<br/>Más allá de mi humanidad<br/>Hoy buscamos lo celestial<br/>Nos revelas tu voluntad</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Verte Señor más allá, más allá<br/>Es mi pasión conocerte más</lines>
     </verse>
   </lyrics>
 </song>

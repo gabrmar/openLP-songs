@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-03-03T14:42:01">
   <properties>
     <titles>
       <title>Estás en mi</title>
@@ -23,7 +23,7 @@
       <lines>Estas en mi y yo en ti completo estoy<br/>De gloria en gloria me transformas</lines>
     </verse>
     <verse name="v5">
-      <lines>Aviva en mi Espiritu Santo Y reina en mi, reina en mi<br/>Un reino inconmovible dentro de mi</lines>
+      <lines>Aviva en mi Espiritu Santo <br/>Y reina en mi, reina en mi.</lines>
     </verse>
     <verse name="v6">
       <lines>Tu reino estableciéndose<br/>Tu reino invade este lugar</lines>

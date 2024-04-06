@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-04-06T00:33:21">
+  <properties>
+    <titles>
+      <title>Cercanos</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v2 b1</verseOrder>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por el pecado estuve alejado <br/>Por sendas de muerte y mente de esclavo <br/>Desconociendo que me habías amado, me habías atraído a la vida en ti </lines>
+    </verse>
+    <verse name="v2">
+      <lines>En tiempo Perfecto me hiciste cercano, vertiendo tu sangre crucificado, me concediste lo consumado y hoy vivo para expresarte a ti </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cercano a ti con libertad <br/>Cercano a ti es mi verdad <br/>Eternamente voy a estar cercano a ti </lines>
+    </verse>
+    <verse name="b1">
+      <lines>//En ti somos, en ti andamos y vivimos,  soy cercano//<br/>En ti somos, en ti andamos, en ti servimos, soy tus manos <br/>En ti somos, en ti andamos, en ti vivimos y soy cercano</lines>
+    </verse>
+  </lyrics>
+</song>

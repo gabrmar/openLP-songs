@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-03-31T14:00:24">
+  <properties>
+    <titles>
+      <title>El Tiempo Ha Llegado</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v2 c1 c1</verseOrder>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Mira a los cielos<br/>Discierne señales<br/>Entiende que el tiempo<br/>ha llegado</lines>
+      <lines break="optional">Milagros portentos<br/>Sobrenaturales<br/>Su gloria se ha manifestado</lines>
+      <lines>Los profetas levantan su voz<br/>Y  declaran con gritos de guerra<br/>Que el tiempo llegó</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">La luz resplandece<br/>Huyen las tinieblas<br/>El fruto ya está preparado</lines>
+      <lines break="optional">Guerreros valientes<br/>Se toman la tierra<br/>Y todo será dominado</lines>
+      <lines>Porque somos<br/>los hijos de Dios<br/>Y el nos dio potestad<br/>Y dominio sobre lo<br/>Conquistado</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Grista ya<br/>Que tu Rey de reyes<br/>Vive por los siglos</lines>
+      <lines break="optional">Proclamad<br/>Que su reino<br/>No tiene final</lines>
+      <lines break="optional">Y tendrás<br/>La victoria y el <br/>Dominio de los hijos</lines>
+      <lines>Y el poder para atar<br/>Y desatar</lines>
+    </verse>
+  </lyrics>
+</song>

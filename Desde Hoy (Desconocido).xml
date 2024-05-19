@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-05-19T16:54:36">
+  <properties>
+    <titles>
+      <title>Desde Hoy</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoy comienza un nuevo tiempo<br/>Una nueva estación ya llegó donde toda ha sido restaurado<br/>No más llanto, Dios quitó el dolor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Desde hoy en adelante<br/>Una nueva temporada comenzó y mi vida  Él restauró//<br/>No más llanto, Dios quitó mi dolor desde hoy</lines>
+    </verse>
+  </lyrics>
+</song>

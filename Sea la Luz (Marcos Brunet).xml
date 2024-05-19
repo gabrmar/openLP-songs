@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-05-19T12:08:25">
+  <properties>
+    <titles>
+      <title>Sea la Luz</title>
+    </titles>
+    <verseOrder>v1 p1 c1 b1 c2</verseOrder>
+    <authors>
+      <author>Marcos Brunet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo<br/>Eres la luz del mundo<br/>Eres el sol de justicia<br/>Que nunca deja de brillar<br/>Cristo<br/>Tu luz no avergüenza<br/>Tu luz nunca condena<br/>Solo muestra tu gloria</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Esta generación se expone a tu luz<br/>Y cada nación responde a tu voz</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sea la luz en este lugar<br/>Sea la luz y todo se ordena<br/>Sea la luz y hágase tu voluntad</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Todo se ilumina cuando tú estas<br/>Todo se ordena, todo se transforma</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Eres la luz que alumbra mi vida<br/>Eres la luz que el mundo ilumina<br/>Eres la luz yo amo hacer tu voluntad</lines>
+    </verse>
+  </lyrics>
+</song>

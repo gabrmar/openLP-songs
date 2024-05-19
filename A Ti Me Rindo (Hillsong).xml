@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-05-19T12:19:14">
+  <properties>
+    <titles>
+      <title>A Ti Me Rindo</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ante ti<br/>Postrado estoy aquí<br/>Te rindo mi ser<br/>Te rindo mi ser<br/>Con tu amor<br/>Atráeme Señor<br/>Vengo a tus pies<br/>Vengo a tus pies<br/>A ti me rindo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lléname<br/>De gracia inúndame<br/>Sacia mi sed<br/>Sacia mi sed<br/>Mi corazón<br/>Levanta un clamor<br/>Háblame Dios<br/>Háblame Dios</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A ti me rindo<br/>A ti me rindo<br/>Te quiero conocer<br/>Más de ti conocer</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Con tu aliento Dios<br/>Sopla en mi interior<br/>Cumple Señor<br/>Tu voluntad en mí<br/>Con tu gran poder<br/>Muévete en mi ser<br/>Cumple Señor<br/>Tu voluntad en mí</lines>
+    </verse>
+  </lyrics>
+</song>

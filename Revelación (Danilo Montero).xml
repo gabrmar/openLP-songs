@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-06-15T00:17:30">
+  <properties>
+    <titles>
+      <title>Revelación</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Digno es el Cordero Santo<br/>Santo, santo es Él<br/>Levantamos nuestra alabanza<br/>Al que en el trono está</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Santo, santo, santo Dios todo poderoso<br/>Quien fue, quien es y quien vendrá<br/>La creación hoy canta y damos gloria a Él<br/>Tú eres digno por siempre y siempre</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Levantamos nuestra alabanza<br/>Al que en el trono esta<br/>Levantamos nuestra alabanza<br/>Al que en el trono está</lines>
+    </verse>
+  </lyrics>
+</song>

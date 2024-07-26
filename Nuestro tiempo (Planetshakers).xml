@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2023-08-30T23:12:26">
   <properties>
     <titles>
       <title>Nuestro tiempo</title>
@@ -11,7 +11,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Gritaremos de gozo con toda pasión<br/> es el canto que fluye de nuestro interior</lines>
+      <lines>Gritaremos de gozo con toda pasión<br/>es el canto que fluye de nuestro interior</lines>
     </verse>
     <verse name="v2">
       <lines>y hoy volvemos a ti nuestro corazón<br/>y no podemos dejar de amarte Dios</lines>

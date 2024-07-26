@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-03-18T01:13:32">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2023-08-30T23:12:26">
   <properties>
     <titles>
       <title>Creo</title>
@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Creo en el poder<br/>Que derrotó la muerte en mi ser <br/>Me diste nueva vida por la fe <br/>En su obra de justicia Cristo es mi rey </lines>
+      <lines>Creo en el poder<br/>Que derrotó la muerte en mi ser<br/>Me diste nueva vida por la fe<br/>En su obra de justicia Cristo es mi rey</lines>
     </verse>
     <verse name="v2">
-      <lines>Creo y creeré<br/>Me has hecho inamovible venceré<br/>La vida que me diste viviré <br/>Morir en ti es ganancia Cristo es mi rey</lines>
+      <lines>Creo y creeré<br/>Me has hecho inamovible venceré<br/>La vida que me diste viviré<br/>Morir en ti es ganancia Cristo es mi rey</lines>
     </verse>
     <verse name="c1">
-      <lines>Eres rey <br/>Tu reino de establece en mi ser <br/>Por siempre y para siempre eres fiel <br/>Nada te detiene </lines>
+      <lines>Eres rey <br/>Tu reino de establece en mi ser<br/>Por siempre y para siempre eres fiel<br/>Nada te detiene</lines>
     </verse>
     <verse name="c2">
-      <lines>Cantaré, con fuerza mi voz levantaré <br/>Tú eres soberano oh rey <br/>Digno de gloria y poder </lines>
+      <lines>Cantaré, con fuerza mi voz levantaré <br/>Tú eres soberano oh rey<br/>Digno de gloria y poder</lines>
     </verse>
     <verse name="b1">
       <lines>Grande, firme incontenible, es tu poder <br/>Se renueva en ti mi fuerza, creeré</lines>

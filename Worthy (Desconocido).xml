@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-11-03T00:18:46">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2023-08-30T23:12:27">
   <properties>
     <titles>
       <title>Worthy</title>
@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Llevaste tu mi cruz <br/>Soy libre en ti, mi victoria ganaste <br/>Cristo tu gran amor <br/>Le puso fin al dolor y la muerte </lines>
+      <lines>Llevaste tu mi cruz <br/>Soy libre en ti, mi victoria ganaste<br/>Cristo tu gran amor<br/>Le puso fin al dolor y la muerte</lines>
     </verse>
     <verse name="v2">
-      <lines>Santo eres tú Cristo <br/>Digno del honor, gloria y poder </lines>
+      <lines>Santo eres tú Cristo <br/>Digno del honor, gloria y poder</lines>
     </verse>
     <verse name="v3">
-      <lines>Perfecto es tu amor, no hay temor <br/>Mi vergüenza quitaste <br/>De Tu Gracia y tu poder<br/>Yo cantaré <br/>y tu vida expresaré </lines>
+      <lines>Perfecto es tu amor, no hay temor <br/>Mi vergüenza quitaste<br/>De Tu Gracia y tu poder<br/>Yo cantaré<br/>y tu vida expresaré</lines>
     </verse>
     <verse name="v4">
-      <lines>en la tierra y en los cielos <br/>Tu gobiernas con poder<br/>De mi vida eres el rey <br/>Yo tu nombre exaltaré</lines>
+      <lines>en la tierra y en los cielos <br/>Tu gobiernas con poder<br/>De mi vida eres el rey<br/>Yo tu nombre exaltaré</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:16:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2023-08-30T23:12:26">
   <properties>
     <titles>
       <title>Incontenible (Overflow)</title>
@@ -12,7 +12,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Mi fe no puede medirse, <br/>ya no tengo ningún límite<br/>ahora veo claramente, <br/>tu plan en mi va a cumplirse</lines>
+      <lines>Mi fe no puede medirse, <br/>ya no tengo ningún límite<br/>ahora veo claramente,<br/>tu plan en mi va a cumplirse</lines>
     </verse>
     <verse name="p1">
       <lines>Tú ves más allá de lo imaginado<br/>Tú vas más alto<br/>Grande eres, Dios, incontenible<br/>No tienes fin</lines>
@@ -27,7 +27,7 @@
       <lines>Si le amas, canta fuerte<br/>Vamos todos a exaltarle</lines>
     </verse>
     <verse name="b2">
-      <lines>Alzamos nuestras manos hacia ti<br/>Lo que anhelamos eres tú<br/>Estamos listos para proclamar <br/>Esa vida que solo tú nos das</lines>
+      <lines>Alzamos nuestras manos hacia ti<br/>Lo que anhelamos eres tú<br/>Estamos listos para proclamar<br/>Esa vida que solo tú nos das</lines>
     </verse>
   </lyrics>
 </song>

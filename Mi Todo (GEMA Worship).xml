@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2024-04-28T14:39:20">
+  <properties>
+    <titles>
+      <title>Mi Todo</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Una cosa anhelo y buscaré<br/>Hacer tu voluntad<br/>Soló tu voluntad<br/>Correr tras lo eterno y verdadero<br/>No busco lo temporal<br/>Me encuentro en tu eternidad</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Nada buscaré fuera de ti<br/>Todo lo encuntro sólo en ti<br/>Nada buscaré fuera de ti<br/>Mi vida está completa sólo en ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tú eres mi todo<br/>Más que suficiente<br/>Tú eres mi todo<br/>Y yo te amo a ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo eres mi fuente y beberé<br/>Sólo de tu verdad<br/>Mi alma se saciará<br/>Vacíos y temores dejo atrás <br/>Todo supliste ya<br/>Lo eterno es mi realidad</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tu presencia es mi plenitud<br/>Todo  lo suples<br/>Nada me falta</lines>
+    </verse>
+  </lyrics>
+</song>

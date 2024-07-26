@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2024-04-21T14:10:55">
+  <properties>
+    <titles>
+      <title>Me extiendo</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2 b1 e1</verseOrder>
+    <authors>
+      <author type="words">GEMA Worship</author>
+      <author type="music">GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me extiendo al norte<br/>Me extiendo al sur<br/>Este y oeste<br/>Como Jesus<br/>Extiendo gracia<br/>Poder y gloria<br/>Virtudes del Señor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me extiendo al frente<br/>Con decisión<br/>Alzo mi lanza<br/>Con precisión<br/>Con gozo alcanzó<br/>Los campos blancos<br/>Que Dios nos entregó</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Estoy pleno<br/>Mi Señor lo llena todo<br/>Con su gracia<br/>Y su poder lo llena todo<br/>Abundancias tengo<br/>Y abundancia extiendo<br/>Porque todo en Cristo<br/>Lo puedo</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Cristo avanza<br/>Soy su lanza de guerrero<br/>Proclamando<br/>Su alabanza voy primero<br/>Abundancias tengo<br/>Y abundancia extiendo<br/>Porque todo en Cristo<br/>Lo puedo</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tengo en todo lo suficiente<br/>Tengo puesta mi confianza en Dios<br/>Abundancias el me concedió</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Me extiendo al norte<br/>Me extiendo al sur<br/>Este y oeste<br/>Como Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-03-21T15:01:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2023-08-30T23:12:27">
   <properties>
     <titles>
       <title>Thank You (Gracias Cristo)</title>
@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Oh aleluya Gracias Cristo<br/>Oh aleluya Dios es Rey <br/>Oh aleluya te exaltamos <br/>Oh aleluya Dios es Fiel</lines>
+      <lines>Oh aleluya Gracias Cristo<br/>Oh aleluya Dios es Rey<br/>Oh aleluya te exaltamos<br/>Oh aleluya Dios es Fiel</lines>
     </verse>
     <verse name="v2">
       <lines>Cantamos de tu amor gracia y poder</lines>
     </verse>
     <verse name="v3">
-      <lines>Gracias Dios por tu amor<br/>Gracias Dios por tu amor<br/>Mi ser canta aleluya <br/>Gracias Dios por tu amor</lines>
+      <lines>Gracias Dios por tu amor<br/>Gracias Dios por tu amor<br/>Mi ser canta aleluya<br/>Gracias Dios por tu amor</lines>
     </verse>
     <verse name="b1">
-      <lines>Tu has sido fiel // te adoro Dios //<br/>Mi corazón completo está <br/>te adoro Dios te adoro</lines>
+      <lines>Tu has sido fiel // te adoro Dios //<br/>Mi corazón completo está<br/>te adoro Dios te adoro</lines>
     </verse>
     <verse name="b2">
-      <lines>Nunca olvidaré// <br/>lo que has hecho en mi tu eres grande<br/>Nunca fallarás// <br/>tu eres fiel oh Dios ayer hoy y siempre</lines>
+      <lines>Nunca olvidaré// <br/>lo que has hecho en mi tu eres grande<br/>Nunca fallarás//<br/>tu eres fiel oh Dios ayer hoy y siempre</lines>
     </verse>
   </lyrics>
 </song>

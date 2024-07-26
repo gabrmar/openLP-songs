@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2024-07-14T14:36:17">
+  <properties>
+    <titles>
+      <title>Tu iglesia</title>
+    </titles>
+    <authors>
+      <author type="music">GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aceptado<br/>Cubierto por tu gracia<br/>Amado<br/>Vestido con tu gloria<br/>Me has llamado<br/>A vivir en libertad</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Resucitado<br/>Para la vida eterna<br/>Anclado<br/>A tu obra perfecta<br/>Me has llamado<br/>A vivir en libertad</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Ahora tengo tu naturaleza<br/>Tu vida y tu gracia es mi certeza</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Tu iglesia<br/>Expresa tu grandeza<br/>La gracia y el poder para crecer<br/>Nos une para en ti permanecer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Redimido<br/>En tu cruz justificado<br/>Cristo<br/>No vivo en temor<br/>Soy libre para tu gloria reflejar</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Tu iglesia<br/>Expresa tu grandeza<br/>La gracia y el poder para crecer<br/>Nos une para en ti permanecer</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Tu iglesia<br/>Disfruta tu presencia<br/>Tu amor inagotable fluye aquí<br/>En gozo y plenitud puedo vivir</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Digno y santo<br/>Te adoramos<br/>Todos te conocerán</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Tu iglesia<br/>Expresa tu grandeza<br/>La gracia y el poder para crecer<br/>Nos une para en ti permanecer</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Tu iglesia<br/>Disfruta tu presencia<br/>Tu amor inagotable fluye aquí<br/>En gozo y plenitud puedo vivir</lines>
+    </verse>
+  </lyrics>
+</song>

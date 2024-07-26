@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-21T00:43:13">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2023-08-30T23:12:26">
   <properties>
     <titles>
       <title>Sobreabundante  Gracia</title>
@@ -13,7 +13,7 @@
       <lines>Sobreabundante gracia que me salvó <br/>Perfeccionado soy en ti oh Dios</lines>
     </verse>
     <verse name="c2a">
-      <lines>Inalterable es tu amor <br/>Me has dado todo en ti lo tengo todo <br/>Seguro estoy</lines>
+      <lines>Inalterable es tu amor <br/>Me has dado todo en ti lo tengo todo<br/>Seguro estoy</lines>
     </verse>
     <verse name="v1">
       <lines>Solo tu gracia es suficiente <br/>Solo me basta tu perfecto amor, Cristo</lines>
@@ -22,13 +22,13 @@
       <lines>Me has dado todo, en ti lo tengo todo <br/>Eres mi todo, completo soy, Cristo</lines>
     </verse>
     <verse name="v3">
-      <lines>Eres mi fuente<br/>Eres mi agua <br/>Eres mi pan<br/>El sentido de la vida es conocerte más </lines>
+      <lines>Eres mi fuente<br/>Eres mi agua<br/>Eres mi pan<br/>El sentido de la vida es conocerte más</lines>
     </verse>
     <verse name="c1b">
       <lines>Sobreabundante gracia que me salvó <br/>Perfeccionado soy en ti oh Dios</lines>
     </verse>
     <verse name="c2b">
-      <lines>Inalterable es tu amor <br/>Me has dado todo en ti lo tengo todo <br/>Seguro estoy</lines>
+      <lines>Inalterable es tu amor <br/>Me has dado todo en ti lo tengo todo<br/>Seguro estoy</lines>
     </verse>
   </lyrics>
 </song>

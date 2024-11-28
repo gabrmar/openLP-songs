@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2024-11-28T01:06:01">
+  <properties>
+    <titles>
+      <title>Fui Llamado</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fui llamado<br/>Para este tiempo<br/>Apartado por Dios<br/>Para este momento</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Preparado<br/>A la batalla vengo<br/>Soy soldado<br/>De la revolución del reino</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Grande es el precio por pagar<br/>Lo que Dios me pida voy a dar<br/>Pongo mi vida en el altar<br/>Y en su presencia<br/>Es mi lugar</lines>
+    </verse>
+    <verse name="c2">
+      <lines>En mi boca ha puesto autoridad<br/>Fuerza para atar y desatar<br/>Con violencia puedo arrebatar<br/>Para los cautivos<br/>Libertad</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Soy revolucionario del ejército de Dios<br/>Siempre estoy dispuesto y disponible mi Señor<br/>Soy guerrero y tengo la unción<br/>Para este tiempo</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Vengo conquistando lo que Dios nos entregó<br/>Porque soy en Cristo mucho más que un vencedor<br/>Soy guerrero y tengo la unción<br/>Para este tiempo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Este es mi tiempo<br/>Este es tu tiempo<br/>Es nuestro tiempo</lines>
+    </verse>
+  </lyrics>
+</song>

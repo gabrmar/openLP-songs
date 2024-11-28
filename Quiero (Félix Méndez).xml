@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2024-11-02T02:24:08">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2024-11-28T01:20:04">
   <properties>
     <titles>
       <title>Quiero</title>
@@ -10,16 +10,40 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Quiero descubrir tu más profundo amor<br/>Llenarme de tu vida y esplendor<br/>Quiero perfumarme<br/>Con tu aroma y tocar tu corazón<br/>Dormirme oyendo tu voz<br/>Quiero ser por ti un adorador<br/>Que ofrece mucho más que una canción<br/>Más que mil palabras<br/>O una dulce melodía con su voz<br/>Rendirme a tu pies Señor</lines>
-    </verse>
-    <verse name="c1">
-      <lines>Quiero respirar lo que respiras<br/>Caminar la ruta que caminas<br/>Solo deleitarme en tu comida<br/>Oh Jesús<br/>Yo solo quiero ver como tu miras<br/>Y escuchar al Padre desde arriba<br/>Y para ganar, perder la vida<br/>Como tú</lines>
+      <lines>Quiero descubrir tu más profundo amor<br/>Llenarme de tu vida y esplendor</lines>
     </verse>
     <verse name="v2">
-      <lines>Quiero respirar lo que respiras<br/>Caminar la ruta que caminas<br/>Solo deleitarme en tu comida<br/>Oh Jesús<br/>Yo solo quiero ver como tu miras<br/>Y escuchar al Padre desde arriba<br/>Y para ganar, perder la vida<br/>Como tú</lines>
+      <lines>Quiero perfumarme<br/>Con tu aroma y tocar tu corazón<br/>Dormirme oyendo tu voz</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quiero ser por ti un adorador<br/>Que ofrece mucho más que una canción</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Más que mil palabras<br/>O una dulce melodía con su voz<br/>Rendirme a tu pies Señor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quiero respirar lo que respiras<br/>Caminar la ruta que caminas<br/>Solo deleitarme en tu comida<br/>Oh Jesús</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Yo solo quiero ver como tu miras<br/>Y escuchar al Padre desde arriba<br/>Y para ganar perder la vida<br/>Como tú</lines>
     </verse>
     <verse name="b1">
-      <lines>Quiero ver el fin del tiempo<br/>Pero junto a ti<br/>Porque nada es todo el tiempo<br/>Si no estás en mí<br/>Disfrutar de tu presencia<br/>y de tu amor sin fin<br/>Y adorarte como lo descubrí<br/>Quiero ver el fin del tiempo<br/>Pero junto a ti<br/>Porque nada es todo el tiempo<br/>Si no estás en mí<br/>Y para cuando tu vuelvas<br/>Ser hallado en ti<br/>Adorando con tu Espíritu en mí</lines>
+      <lines>Quiero ver el fin del tiempo<br/>Pero junto a ti</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Porque nada es todo el tiempo<br/>Si no estás en mí</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Disfrutar de tu presencia<br/>y de tu amor sin fin<br/>Y adorarte como lo descubrí</lines>
+    </verse>
+    <verse name="b4">
+      <lines>Quiero ver el fin del tiempo<br/>Pero junto a ti</lines>
+    </verse>
+    <verse name="b5">
+      <lines>Porque nada es todo el tiempo<br/>Si no estás en mí</lines>
+    </verse>
+    <verse name="b6">
+      <lines>Y para cuando tu vuelvas<br/>Ser hallado en ti<br/>Adorando con tu Espíritu en mí<br/> </lines>
     </verse>
   </lyrics>
 </song>

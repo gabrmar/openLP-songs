@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2024-11-28T01:22:06">
+  <properties>
+    <titles>
+      <title>Proezas</title>
+      <title>Me Manifestaré</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Como la luz de la aurora yo voy de aumento en aumento<br/>Engrandecido por Cristo, vestido de gloria por fuera y por dentro</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sé que ha llegado la hora,  Vivo para este momento <br/>El rey me da su victoria, la unción me provoca un aceleramiento</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Me manifestaré, con Cristo avanzaré<br/>Con fuego del espíritu de Dios lo haré</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hoy me levantaré, firme obedeceré <br/>Es tiempo de proezas y mi herencia tomaré</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Fluye por mi divina naturaleza<br/>Soy heredero de naciones y riquezas</lines>
+    </verse>
+    <verse name="b2">
+      <lines> Las multitudes por el están sedientas Y yo se que hoy... </lines>
+    </verse>
+  </lyrics>
+</song>

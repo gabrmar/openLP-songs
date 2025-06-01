@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-06-01T13:45:31">
+  <properties>
+    <titles>
+      <title>Renacer</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú me das tu esplendor y gloria <br/>De tu amor, tu Salvación siempre cantaré </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu amor inunda mi mente <br/>Tu voz es poder que trasciende</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Renace mi esperanza a la luz de tu palabra, mi visión hoy se hace clara, veo gloria no hay derrota.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fue en tu cruz, que vi la luz, tu gloria<br/>Tu perdón y redención siempre cantaré</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Renace mi esperanza a la luz de tu palabra, mi visión hoy se hace clara, veo gloria no hay derrota.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Avivas mi esperanza, hoy ligera es mi carga, mi visión hoy se hace clara, hay luz hoy veo gloria, tú eres mi victoria.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Haces resplandecer como el amanecer a quien confía en ti y pone en ti su fe. <br/>Cantos de libertad en su boca pondrán todos conocerán al rey de majestad. //</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Avivas mi esperanza, a la luz de tu palabra, mi visión hoy se hace clara, veo gloria <br/>No hay derrota.</lines>
+    </verse>
+  </lyrics>
+</song>

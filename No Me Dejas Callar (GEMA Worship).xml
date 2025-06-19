@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2023-08-30T23:12:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-06-01T14:15:51">
   <properties>
     <titles>
       <title>No Me Dejas Callar</title>
@@ -28,7 +28,7 @@
       <lines>No me dejas callar<br/>Me inspiras a adorar<br/>Mi voz no se apagará<br/>Oh oh oh oh oh oh</lines>
     </verse>
     <verse name="v7">
-      <lines>Hoy levantamos tu nombre Oh Cristo<br/>Danzamos cantamos porque tú estás vivo</lines>
+      <lines>Hoy levantamos tu nombre <br/>Oh Cristo<br/>Danzamos cantamos porque tú estás vivo</lines>
     </verse>
     <verse name="v8">
       <lines>No me dejas callar<br/>Me inspiras a adorar<br/>Mi voz no se apagará<br/>Oh oh oh oh oh oh</lines>

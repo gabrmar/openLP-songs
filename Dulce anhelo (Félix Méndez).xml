@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-06-19T00:10:19">
+  <properties>
+    <titles>
+      <title>Dulce anhelo</title>
+    </titles>
+    <authors>
+      <author type="words">Félix Méndez</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Quiero habitar en tus moradas santas <br/>Quiero vivir envuelto en tu presencia<br/>Y disfrutar la grandeza de tu amor mi buen señor <br/>Inclino a ti, mi adoración. </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Quiero llenar mi vida con tu gracia <br/>Quiero sentir el fuego que me llena <br/>y contemplar frente al trono celestial tu majestad <br/>Glorioso rey <br/>Brillar con tu esplendor</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Ver tu rostro dulce y fuerte <br/>Como el sol sobre la nieve <br/><br/>Sobre el mío, resplandece <br/>Y tu gracia me sostiene </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Para adorarte <br/>Derramar mi corazón <br/>Para cantarte <br/>Darte mi alma y dar mi voz <br/>Para expresarte <br/>Que eres mi Dios y el dueño de mi corazón. </lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Quiero esperarte <br/>Oír tu voz decir mi nombre <br/>Y levantarme <br/>Verte entre nubes cuando vuelvas a buscarme <br/>Estar por siempre junto a ti y al fin mirarte </lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Ver tu rostro, dulce y fuerte <br/>Como el sol sobre la nieve <br/>Sobre el mío, resplandece <br/>Y tu gracia me sostiene </lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Para adorarte <br/>Derramar mi corazón <br/>Para cantarte <br/>Darte mi alma y dar mi voz <br/>Para expresarte <br/>Que eres mi Dios y el dueño de mi corazón. </lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>Quiero esperarte <br/>Oír tu voz decir mi nombre <br/>Y levantarme <br/>Verte entre nubes cuando vuelvas a buscarme <br/>Estar por siempre junto a ti y al fin mirarte</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

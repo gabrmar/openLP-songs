@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-07-12T01:58:01">
+  <properties>
+    <titles>
+      <title>En tu luz</title>
+    </titles>
+    <authors>
+      <author type="words">Marcos Brunet</author>
+      <author type="music">Marcos Brunet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tan consumidos por tu amor<br/>Que hemos perdido el sentido de nuestro alrededor<br/>Ya nada nos puede deslumbrar<br/>Nada en este mundo se te puede comparar, Jesús</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nadie como Tú<br/>Nadie como Tú<br/>Nadie como Tú<br/>Nadie como Tú</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesús<br/>Eres nuestra herencia<br/>Más que suficiente<br/>Nuestro redentor y rey, Jesús<br/>Muestra tus caminos<br/>Y andaremos en tu luz<br/>A la luz de tu verdad</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tan consumidos por tu amor<br/>Que hemos perdido el sentido de nuestro alrededor<br/>Ya nada, ya nada, eh<br/>Ya nada nos puede deslumbrar<br/>Nada en este mundo se te puede comparar, Jesús</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nadie como Tú<br/>Nadie como Tú<br/>Nadie como Tú<br/>Nadie como Tú</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesús<br/>Eres nuestra herencia<br/>Más que suficiente<br/>Nuestro redentor y rey, Jesús<br/>Muestra tus caminos<br/>Y andaremos en tu luz<br/>A la luz de tu verdad</lines>
+    </verse>
+    <verse name="v7">
+      <lines>En tu luz vemos la luz<br/>En tu luz vemos la luz<br/>En tu luz vemos la luz<br/>En tu luz vemos la luz<br/>En tu luz vemos la luz<br/>En tu luz vemos la luz<br/>En tu luz<br/>En tu luz vemos la luz<br/>En tu luz vemos la luz<br/>En tu luz vemos la luz<br/>En tu luz vemos la luz<br/>En tu luz vemos la luz<br/>En tu luz vemos la luz, la luz</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Eres nuestra herencia<br/>Más que suficiente<br/>Nuestro redentor y rey, Jesús<br/>Muestra tus caminos<br/>Y andaremos en tu luz (en tu luz)<br/>A la luz de tu verdad</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Eres nuestra herencia<br/>Más que suficiente<br/>Nuestro redentor y rey, Jesús<br/>Muestra tus caminos<br/>Y andaremos en tu luz<br/>A la luz de tu verdad, Jesús<br/>Jesús</lines>
+    </verse>
+  </lyrics>
+</song>

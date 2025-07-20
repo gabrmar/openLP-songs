@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-22T15:27:34">
+  <properties>
+    <titles>
+      <title>Quiero Levantar Mis Manos</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero levantar mis manos<br/>Quiero levantar mi voz<br/>Ofreciendo a ti, mi vida<br/>En santidad y amor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Padre, solo a ti te ofrezco<br/>Mi vida y mi corazón<br/>Y me postro en tu presencia<br/>En adoración</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hijo de Dios, recibe hoy<br/>Toda la gloria, la honra y honor<br/>Hijo de Dios, recibe hoy<br/>Toda la gloria, la honra y honor</lines>
+    </verse>
+  </lyrics>
+</song>

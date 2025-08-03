@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-03T14:03:30">
+  <properties>
+    <titles>
+      <title>Mereces la Gloria</title>
+    </titles>
+    <authors>
+      <author>Luigi Castro</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mereces la gloria y la honra<br/>Levantamos nuestras manos<br/>Exaltándote, Señor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mereces la gloria y la honra<br/>Levantamos nuestras manos<br/>Exaltándote, Señor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Altísimo, milagroso, Salvador<br/>No hay nadie como Tú<br/>No hay nadie como Tú</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dios de gloria<br/>Dios de poder (digno eres Dios) mi Salvador<br/>Mi Victoria (digno eres Dios), mi refugio</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Altísimo Señor<br/>(Cristo) Mi sanador, mi proveedor<br/>Digno eres (digno eres Dios), oh, Señor<br/>Poderoso (digno eres Dios) y soberano</lines>
+    </verse>
+  </lyrics>
+</song>

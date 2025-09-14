@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-09-14T14:26:56">
+  <properties>
+    <titles>
+      <title>Te lo entrego todo</title>
+    </titles>
+    <authors>
+      <author>Tavi Gajardo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi vida tuya es<br/>Has hecho todo nuevo en mi<br/>A dónde más iré<br/>Pues nada me enamora más que tú</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te lo rindo todo a fin de conocerte<br/>Es que nada tiene tu valor//</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te lo entrego todo<br/>En ti está mi tesoro<br/>Permanezco en ti<br/>Y en la libertad<br/>Que tú me regalaste</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es que nada de lo temporal<br/>Me puede dar lo que tú das<br/>Todo lo encuentro en ti<br/>Todo lo tengo en ti</lines>
+    </verse>
+  </lyrics>
+</song>

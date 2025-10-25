@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-30T13:39:02">
+  <properties>
+    <titles>
+      <title>Alabanzica</title>
+      <title>Alabanzica - GEMA</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yo tengo en la tierra un propósito, <br/>trazado con fuego Profético, dañar mi cabeza no es lógico, vivir como un lobo es patético<br/>gozarme la vida es bíblico, vivir para Cristo es lo práctico, cumplir la palabra es científico, cantar alabanzas es dinámico. </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tengo ganas de vivir, no no no quiero morir, quiero ser feliz y verdadero. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sanamente disfrutar y escapar de todo el mal, eso lo enloquece al mundo entero. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo voy, de la tierra al cielo, no soy perdedor, siempre voy primero. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>No vivas en modo frenético, <br/>que nunca parezcas lunático, hay cosas que ponen psicóticos, hay pasos que son siempre erráticos.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No quiere que seas fanático, un joven que está religiosito, con Cristo serás siempre único, alguien especial, siempre auténtico.</lines>
+    </verse>
+  </lyrics>
+</song>

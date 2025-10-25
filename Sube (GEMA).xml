@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-31T14:34:46">
+  <properties>
+    <titles>
+      <title>Sube</title>
+    </titles>
+    <verseOrder>v1 v2 o1 o2 c1 v1 v2 o1 o2 c1 b1 o3 c1</verseOrder>
+    <authors>
+      <author>GEMA</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es el tiempo de subir<br/>De la mano del Señor <br/>Con pasión llegué hasta aquí <br/>Siguiendo los caminos que me preparó</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ahora debo construir <br/>Plataforma con mi Dios <br/>Por la fe voy a seguir <br/>Para ver cumplido lo que prometió </lines>
+    </verse>
+    <verse name="o1">
+      <lines>Es la gloria prometida <br/>Tiempos de esplendor <br/>Prevalezco en la batalla <br/>Mas que un vencedor </lines>
+    </verse>
+    <verse name="o2">
+      <lines>Las naciones se iluminan <br/>Con su resplandor <br/>Con su Reino las domina<br/>Y el es el Señor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sube, Sube, Sube <br/>Sube, Sube, Sube<br/>a la plataforma sobrenatural<br/>Cristo se levanta, con poder avanza <br/>Todas sus promesas hoy se cumplirán </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Una ruta me has trazado <br/>Y yo he caminado <br/>Mi armadura he conservado, Dios<br/><p style="page-break-after: always;"/><br/>Con amor me has conquistado <br/>Y fuerza tú me has dado<br/>Tu palabra y tu poder, me han dominado, Dios.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Sube, Sube<br/>Sube, Sube<br/>Sube, Sube</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-25T00:25:12">
+  <properties>
+    <titles>
+      <title>Mi Anhelo</title>
+    </titles>
+    <authors>
+      <author>jaime murell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi anhelo<br/>Es buscarte día y noche<br/>De tu amor y la ternura<br/>De tu Espíritu Señor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>En tu presencia<br/>Hay plenitud de gozo<br/>En tu presencia<br/>Delicias a tu diestra<br/>Por siempre y para siempre<br/>Me gozo en tu presencia.</lines>
+    </verse>
+  </lyrics>
+</song>

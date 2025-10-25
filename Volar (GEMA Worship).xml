@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-30T13:35:35">
+  <properties>
+    <titles>
+      <title>Volar</title>
+      <title>Volar Gema</title>
+    </titles>
+    <authors>
+      <author>GEMA Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Quiero extender mis alas, <br/>quiero batirlas hacia el sol, <br/>quiero elevar mi alma, a la estatura del Señor</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>ser fiel a su palabra, <br/>que arde en mi corazón, <br/>ahora mi vida alcanza las promesas de mi Dios. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me elevó a las alturas, <br/>a gobernar con mi Señor, <br/>él brilla mi armadura, <br/>la hace brillar con su esplendor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No voy a la aventura, hago la voluntad de Dios, <br/>si la batalla es dura, yo soy más que un vencedor. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y volar, volar a las alturas de mi Dios <br/>Y subir, subir a él en alas de adoración, <br/>Y tener, tener en su presencia una canción, <br/>Que me avive y profetice una explosión. </lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Me elevó a las alturas, a gobernar con mi Señor, <br/>él brilla mi armadura, la hace brillar con su esplendor.</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>No voy a la aventura, hago la voluntad de Dios, si la batalla es dura, yo soy más que un vencedor.</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Subir, volar, contigo quiero estar. ///</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Subir, volar, contigo quiero...</lines>
+    </verse>
+  </lyrics>
+</song>

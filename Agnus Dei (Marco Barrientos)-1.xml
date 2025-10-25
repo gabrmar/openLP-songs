@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-12T13:53:05">
+  <properties>
+    <titles>
+      <title>Agnus Dei</title>
+    </titles>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aleluya<br/>Aleluya<br/>Reinas Tú, poderoso Dios</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aleluya<br/>Santo<br/>Santo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Del Señor Dios poderoso<br/>Digno eres Tú<br/>Digno eres Tú<br/>Tú eres santo, santo</lines>
+    </verse>
+    <verse name="v4">
+      <lines>El Señor Dios poderoso<br/>Digno eres Tú<br/>Digno eres Tú<br/>Amén (Oh, aleluya)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Digno eres Tú<br/>Santo eres Tú<br/>Digno eres Tú<br/>Santo eres Tú</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Digno, digno, digno<br/>Santo, santo, santo<br/>Digno, digno, digno<br/>Santo, santo, santo<br/>Digno, digno, digno</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Digno, digno, digno<br/>Santo, santo, santo<br/>Santo, santo, santo<br/>Santo<br/>Santo</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Santo<br/>Santo, tú eres santo<br/>Santo</lines>
+    </verse>
+    <verse name="v9">
+      <lines>El Señor Dios poderoso<br/>Digno eres tú<br/>Digno eres tú<br/>Digno eres tú<br/>Digno eres tú (Santo)</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Santo eres tú<br/>Santo eres tú<br/>Bueno eres tú</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Santo eres tú<br/>Bueno eres tú<br/>Bueno eres tú</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Bueno, bueno, bueno<br/>Bueno, bueno, bueno<br/>Santo</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Todos se postran<br/>Y arrojan sus coronas<br/>Delante del trono de Dios<br/>Y declaran<br/>Al que está sentado<br/>Al que está sentado<br/>Y al cordero de Dios</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Sí, a la Gloria<br/>Sí, a la honra<br/>Y la alabanza<br/>Y el poder<br/>Y las riquezas<br/>Sabiduría</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Sí, a la Gloria<br/>Sí, a la honra<br/>Y el poder<br/>Y el poder<br/>Y el poder<br/><br/>Oh-oh-oh<br/>Oh-oh-oh<br/>Tú eres santo, santo</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Santo eres Tú<br/>Santo<br/>(Santo eres Tú)<br/>Bueno eres Tú<br/>(Bueno eres Tú)<br/>Bueno, bueno<br/>Bueno eres Tú<br/>Amén</lines>
+    </verse>
+  </lyrics>
+</song>

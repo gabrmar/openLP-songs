@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-22T15:27:15">
+  <properties>
+    <titles>
+      <title>Dame de beber</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero estar en Tu presencia<br/>Y poderte contemplar<br/>Necesito estar contigo<br/>Necesito adorar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dame de beber<br/>De Tu manantial<br/>Dame de beber<br/>Necesito más</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dame de beber, Espíritu Santo<br/>De Tu manantial<br/>Dame de beber<br/>Necesito más</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh-oh-oh<br/>Quiero estar en Tu presencia</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Quiero estar en Tu presencia, amado Dios<br/>Y poderte contemplar<br/>Atráeme para Ti, Señor<br/>Necesito estar contigo<br/>Te amo, Dios<br/>Necesito adorar</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dame de beber<br/>De Tu manantial<br/>Dame de beber (oh)<br/>Necesito, necesitó más<br/>Necesito más de Ti, Señor</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dame de beber<br/>De Tu manantial<br/>Dame de beber<br/>Necesito más</lines>
+    </verse>
+  </lyrics>
+</song>

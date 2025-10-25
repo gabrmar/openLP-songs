@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-05T14:04:33">
+  <properties>
+    <titles>
+      <title>Vamos a Cantar</title>
+    </titles>
+    <authors>
+      <author>En Espíritu y En Verdad</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vamos a cantar<br/>Con la música del cielo vamos a cantar<br/>Alegres porque escuchas cuando<br/>Cantamos para exaltar tu nombre</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amamos todo de ti<br/>Cielo y tierra te adoran<br/>Los reinos se rinden<br/>Hijo de Dios, Tú eres por quien<br/>Tú eres por quien<br/>Vivimos hoy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tú eres quien nos liberta<br/>Tú eres la luz que guía<br/>Como un fuego ardiente<br/>Hijo de Dios, Tú eres por quien<br/>Tú eres por quien<br/>Vivimos hoy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vamos a cantar<br/>Con la música del cielo vamos a cantar<br/>Alegres porque escuchas cuando<br/>Cantamos para exaltar tu nombre</lines>
+    </verse>
+  </lyrics>
+</song>

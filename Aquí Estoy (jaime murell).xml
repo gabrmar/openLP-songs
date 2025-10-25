@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-25T00:33:29">
+  <properties>
+    <titles>
+      <title>Aquí Estoy</title>
+    </titles>
+    <authors>
+      <author>jaime murell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aquí estoy<br/>Te ofrezco todo lo que soy<br/>Aquí estoy<br/>Un sacrificio quiero ser<br/>Toma mi ser<br/>Mi vida entrego a ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Porque tú eres mi Dios<br/>Eres digno de adoración<br/>Una ofrenda de amor seré<br/>Para ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Porque tú eres mi Dios eres digno de adoración<br/>Una ofrenda de amor seré para ti, solo para ti<br/>Digno de gloria digno de honra eres tú señor un ofrenda de<br/>Amor seré para ti</lines>
+    </verse>
+  </lyrics>
+</song>

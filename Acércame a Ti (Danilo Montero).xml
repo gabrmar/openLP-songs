@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-24T00:23:04">
+  <properties>
+    <titles>
+      <title>Acércame a Ti</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Acércame a ti, no me dejes ir<br/>Lo rindo todo una vez más<br/>A cambio de tu amistad</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te anhelo a ti, solamente a ti<br/>Pues nada ocupa tu lugar<br/>En tu abrazo quiero estar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Guíame Señor, anhelo estar en ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te anhelo Dios<br/>Señor, te necesito<br/>Te anhelo Dios<br/>Yo se que cerca estás</lines>
+    </verse>
+  </lyrics>
+</song>

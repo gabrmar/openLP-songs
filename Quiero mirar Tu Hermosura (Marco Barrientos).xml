@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-20T01:51:46">
+  <properties>
+    <titles>
+      <title>Quiero mirar Tu Hermosura</title>
+      <title>Quiero mirar tu her</title>
+    </titles>
+    <authors>
+      <author type="words">Marco Barrientos</author>
+      <author type="music">Marco Barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios me abro a ti<br/>Me entrego a ti Jesús</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Estoy dispuesto<br/>Y en tus manos<br/>Lo rindo todo<br/>Señor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abre mis ojos<br/>Déjame verte<br/>Quita las vendas<br/>Que me han cegado</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abre mis ojos<br/>Yo quiero verte<br/>Muestra tu gloria<br/>Y tu gran bondad</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Quiero mirar tu hermosura<br/>Y contemplar tu majestad<br/>Abre mis ojos Jesucristo<br/>Muestra tu gloria y tu bondad</lines>
+    </verse>
+  </lyrics>
+</song>
